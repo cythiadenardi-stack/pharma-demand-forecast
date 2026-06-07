@@ -1,0 +1,501 @@
+sku_id,atc_code,atc_level1,atc_level2,atc_level3,atc_level4,product_name,sku_name,generic_name,generic_name_cn,category,therapy_area,dosage_form,specification,is_rx,is_essential_medicine,vbp_flag,vbp_batch,unit_price_cny,shelf_life_months,storage_type,cold_chain,supplier,lead_time_days
+SKU-0001,C08CA01,C,C08,C08C,C08CA,Amlodipine Capsules 5mgx7,氨氯地平Capsules 5mgx7,Amlodipine,氨氯地平,C08C,Cardiovascular,Capsules,5mgx7,1,0,0,0,12.39,24,Ambient,0,科伦药业,30
+SKU-0002,C07AB02,C,C07,C07A,C07AB,Metoprolol Oral Solution 500mgx14,美托洛尔Oral Solution 500mgx14,Metoprolol,美托洛尔,C07A,Cardiovascular,Oral Solution,500mgx14,1,0,0,0,68.08,36,Ambient,0,恒瑞医药,7
+SKU-0003,C09CA03,C,C09,C09C,C09CA,Valsartan Injection 500mgx28,缬沙坦Injection 500mgx28,Valsartan,缬沙坦,C09C,Cardiovascular,Injection,500mgx28,1,0,0,0,58.77,48,Ambient,0,诺华制药,21
+SKU-0004,C10AA05,C,C10,C10A,C10AA,Atorvastatin Granules 250mgx21,阿托伐他汀Granules 250mgx21,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Granules,250mgx21,1,0,1,2,29.81,12,Ambient,0,诺华制药,14
+SKU-0005,C10AA01,C,C10,C10A,C10AA,Simvastatin Tablets 100mgx30,辛伐他汀Tablets 100mgx30,Simvastatin,辛伐他汀,C10A,Cardiovascular,Tablets,100mgx30,1,0,0,0,78.24,12,Ambient,0,赛诺菲,14
+SKU-0006,C09CA01,C,C09,C09C,C09CA,Losartan Oral Solution 5mgx28,氯沙坦Oral Solution 5mgx28,Losartan,氯沙坦,C09C,Cardiovascular,Oral Solution,5mgx28,1,1,0,0,50.82,18,Ambient,0,赛诺菲,21
+SKU-0007,C07AB07,C,C07,C07A,C07AB,Bisoprolol Oral Solution 5mgx30,比索洛尔Oral Solution 5mgx30,Bisoprolol,比索洛尔,C07A,Cardiovascular,Oral Solution,5mgx30,1,1,0,0,6.34,36,Cold Chain,1,赛诺菲,7
+SKU-0008,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Capsules 500mgx100,瑞舒伐他汀Capsules 500mgx100,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Capsules,500mgx100,1,0,0,0,42.01,24,Ambient,0,赛诺菲,21
+SKU-0009,C08CA01,C,C08,C08C,C08CA,Amlodipine Tablets 20mgx100,氨氯地平Tablets 20mgx100,Amlodipine,氨氯地平,C08C,Cardiovascular,Tablets,20mgx100,1,0,0,0,76.07,36,Ambient,0,阿斯利康,7
+SKU-0010,C07AB02,C,C07,C07A,C07AB,Metoprolol Capsules 100mgx21,美托洛尔Capsules 100mgx21,Metoprolol,美托洛尔,C07A,Cardiovascular,Capsules,100mgx21,1,1,0,0,30.33,12,Ambient,0,正大天晴,30
+SKU-0011,C09CA03,C,C09,C09C,C09CA,Valsartan Oral Solution 25mgx100,缬沙坦Oral Solution 25mgx100,Valsartan,缬沙坦,C09C,Cardiovascular,Oral Solution,25mgx100,1,0,0,0,71.32,24,Ambient,0,科伦药业,30
+SKU-0012,C10AA05,C,C10,C10A,C10AA,Atorvastatin Capsules 500mgx21,阿托伐他汀Capsules 500mgx21,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Capsules,500mgx21,1,1,0,0,22.13,18,Ambient,0,恒瑞医药,30
+SKU-0013,C10AA01,C,C10,C10A,C10AA,Simvastatin Tablets 250mgx21,辛伐他汀Tablets 250mgx21,Simvastatin,辛伐他汀,C10A,Cardiovascular,Tablets,250mgx21,1,1,1,5,36.44,36,Ambient,0,诺华制药,30
+SKU-0014,C09CA01,C,C09,C09C,C09CA,Losartan Injection 500mgx30,氯沙坦Injection 500mgx30,Losartan,氯沙坦,C09C,Cardiovascular,Injection,500mgx30,1,1,1,4,10.67,24,Ambient,0,诺华制药,21
+SKU-0015,C07AB07,C,C07,C07A,C07AB,Bisoprolol Injection 10mgx90,比索洛尔Injection 10mgx90,Bisoprolol,比索洛尔,C07A,Cardiovascular,Injection,10mgx90,1,0,0,0,70.93,48,Ambient,0,科伦药业,14
+SKU-0016,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Tablets 100mgx90,瑞舒伐他汀Tablets 100mgx90,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Tablets,100mgx90,1,0,0,0,62.32,36,Ambient,0,扬子江药业,21
+SKU-0017,C08CA01,C,C08,C08C,C08CA,Amlodipine Tablets 10mgx7,氨氯地平Tablets 10mgx7,Amlodipine,氨氯地平,C08C,Cardiovascular,Tablets,10mgx7,1,0,1,1,45.11,36,Ambient,0,正大天晴,14
+SKU-0018,C07AB02,C,C07,C07A,C07AB,Metoprolol Oral Solution 100mgx60,美托洛尔Oral Solution 100mgx60,Metoprolol,美托洛尔,C07A,Cardiovascular,Oral Solution,100mgx60,1,0,1,4,5.61,18,Ambient,0,辉瑞制药,21
+SKU-0019,C09CA03,C,C09,C09C,C09CA,Valsartan Granules 25mgx90,缬沙坦Granules 25mgx90,Valsartan,缬沙坦,C09C,Cardiovascular,Granules,25mgx90,1,0,1,7,57.59,12,Ambient,0,石药集团,14
+SKU-0020,C10AA05,C,C10,C10A,C10AA,Atorvastatin Injection 250mgx60,阿托伐他汀Injection 250mgx60,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Injection,250mgx60,1,0,0,0,6.07,18,Ambient,0,阿斯利康,30
+SKU-0021,C10AA01,C,C10,C10A,C10AA,Simvastatin Oral Solution 500mgx28,辛伐他汀Oral Solution 500mgx28,Simvastatin,辛伐他汀,C10A,Cardiovascular,Oral Solution,500mgx28,1,0,0,0,24.22,48,Ambient,0,辉瑞制药,14
+SKU-0022,C09CA01,C,C09,C09C,C09CA,Losartan Tablets 25mgx7,氯沙坦Tablets 25mgx7,Losartan,氯沙坦,C09C,Cardiovascular,Tablets,25mgx7,1,1,0,0,58.67,48,Ambient,0,齐鲁制药,30
+SKU-0023,C07AB07,C,C07,C07A,C07AB,Bisoprolol Granules 500mgx30,比索洛尔Granules 500mgx30,Bisoprolol,比索洛尔,C07A,Cardiovascular,Granules,500mgx30,1,0,0,0,10.84,18,Ambient,0,诺华制药,7
+SKU-0024,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Injection 100mgx90,瑞舒伐他汀Injection 100mgx90,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Injection,100mgx90,1,0,0,0,12.48,36,Ambient,0,扬子江药业,30
+SKU-0025,C08CA01,C,C08,C08C,C08CA,Amlodipine Oral Solution 10mgx21,氨氯地平Oral Solution 10mgx21,Amlodipine,氨氯地平,C08C,Cardiovascular,Oral Solution,10mgx21,1,0,1,9,51.17,36,Ambient,0,辉瑞制药,14
+SKU-0026,C07AB02,C,C07,C07A,C07AB,Metoprolol Capsules 50mgx100,美托洛尔Capsules 50mgx100,Metoprolol,美托洛尔,C07A,Cardiovascular,Capsules,50mgx100,1,1,0,0,57.37,24,Ambient,0,赛诺菲,7
+SKU-0027,C09CA03,C,C09,C09C,C09CA,Valsartan Granules 250mgx90,缬沙坦Granules 250mgx90,Valsartan,缬沙坦,C09C,Cardiovascular,Granules,250mgx90,1,1,0,0,26.35,48,Ambient,0,阿斯利康,21
+SKU-0028,C10AA05,C,C10,C10A,C10AA,Atorvastatin Tablets 20mgx100,阿托伐他汀Tablets 20mgx100,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Tablets,20mgx100,1,0,0,0,38.06,12,Ambient,0,齐鲁制药,30
+SKU-0029,C10AA01,C,C10,C10A,C10AA,Simvastatin Oral Solution 10mgx28,辛伐他汀Oral Solution 10mgx28,Simvastatin,辛伐他汀,C10A,Cardiovascular,Oral Solution,10mgx28,1,1,1,3,15.92,18,Ambient,0,扬子江药业,14
+SKU-0030,C09CA01,C,C09,C09C,C09CA,Losartan Capsules 25mgx60,氯沙坦Capsules 25mgx60,Losartan,氯沙坦,C09C,Cardiovascular,Capsules,25mgx60,1,0,0,0,57.28,36,Ambient,0,扬子江药业,14
+SKU-0031,C07AB07,C,C07,C07A,C07AB,Bisoprolol Tablets 10mgx28,比索洛尔Tablets 10mgx28,Bisoprolol,比索洛尔,C07A,Cardiovascular,Tablets,10mgx28,1,0,0,0,66.85,24,Ambient,0,齐鲁制药,30
+SKU-0032,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Granules 100mgx14,瑞舒伐他汀Granules 100mgx14,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Granules,100mgx14,1,0,1,2,21.58,24,Cold Chain,1,正大天晴,14
+SKU-0033,C08CA01,C,C08,C08C,C08CA,Amlodipine Capsules 50mgx14,氨氯地平Capsules 50mgx14,Amlodipine,氨氯地平,C08C,Cardiovascular,Capsules,50mgx14,1,0,0,0,14.59,12,Ambient,0,石药集团,14
+SKU-0034,C07AB02,C,C07,C07A,C07AB,Metoprolol Injection 25mgx7,美托洛尔Injection 25mgx7,Metoprolol,美托洛尔,C07A,Cardiovascular,Injection,25mgx7,1,1,1,2,62.94,18,Ambient,0,齐鲁制药,30
+SKU-0035,C09CA03,C,C09,C09C,C09CA,Valsartan Injection 500mgx30,缬沙坦Injection 500mgx30,Valsartan,缬沙坦,C09C,Cardiovascular,Injection,500mgx30,1,0,0,0,38.71,18,Ambient,0,辉瑞制药,14
+SKU-0036,C10AA05,C,C10,C10A,C10AA,Atorvastatin Tablets 250mgx21,阿托伐他汀Tablets 250mgx21,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Tablets,250mgx21,1,1,0,0,60.62,24,Ambient,0,诺华制药,21
+SKU-0037,C10AA01,C,C10,C10A,C10AA,Simvastatin Capsules 10mgx90,辛伐他汀Capsules 10mgx90,Simvastatin,辛伐他汀,C10A,Cardiovascular,Capsules,10mgx90,1,0,1,3,54.86,24,Ambient,0,恒瑞医药,30
+SKU-0038,C09CA01,C,C09,C09C,C09CA,Losartan Capsules 25mgx90,氯沙坦Capsules 25mgx90,Losartan,氯沙坦,C09C,Cardiovascular,Capsules,25mgx90,1,0,0,0,55.42,12,Ambient,0,齐鲁制药,7
+SKU-0039,C07AB07,C,C07,C07A,C07AB,Bisoprolol Capsules 50mgx100,比索洛尔Capsules 50mgx100,Bisoprolol,比索洛尔,C07A,Cardiovascular,Capsules,50mgx100,1,0,0,0,33.0,18,Ambient,0,诺华制药,14
+SKU-0040,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Capsules 5mgx60,瑞舒伐他汀Capsules 5mgx60,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Capsules,5mgx60,1,0,1,5,8.56,36,Ambient,0,石药集团,21
+SKU-0041,C08CA01,C,C08,C08C,C08CA,Amlodipine Granules 250mgx28,氨氯地平Granules 250mgx28,Amlodipine,氨氯地平,C08C,Cardiovascular,Granules,250mgx28,1,1,0,0,43.05,48,Ambient,0,辉瑞制药,30
+SKU-0042,C07AB02,C,C07,C07A,C07AB,Metoprolol Granules 100mgx90,美托洛尔Granules 100mgx90,Metoprolol,美托洛尔,C07A,Cardiovascular,Granules,100mgx90,1,1,1,5,5.76,24,Ambient,0,诺华制药,14
+SKU-0043,C09CA03,C,C09,C09C,C09CA,Valsartan Tablets 500mgx90,缬沙坦Tablets 500mgx90,Valsartan,缬沙坦,C09C,Cardiovascular,Tablets,500mgx90,1,1,0,0,19.98,24,Ambient,0,石药集团,14
+SKU-0044,C10AA05,C,C10,C10A,C10AA,Atorvastatin Capsules 5mgx7,阿托伐他汀Capsules 5mgx7,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Capsules,5mgx7,1,0,0,0,41.05,48,Ambient,0,诺华制药,21
+SKU-0045,C10AA01,C,C10,C10A,C10AA,Simvastatin Oral Solution 500mgx30,辛伐他汀Oral Solution 500mgx30,Simvastatin,辛伐他汀,C10A,Cardiovascular,Oral Solution,500mgx30,1,0,0,0,77.46,12,Ambient,0,科伦药业,30
+SKU-0046,C09CA01,C,C09,C09C,C09CA,Losartan Granules 50mgx60,氯沙坦Granules 50mgx60,Losartan,氯沙坦,C09C,Cardiovascular,Granules,50mgx60,1,0,0,0,50.35,48,Ambient,0,正大天晴,30
+SKU-0047,C07AB07,C,C07,C07A,C07AB,Bisoprolol Capsules 50mgx100,比索洛尔Capsules 50mgx100,Bisoprolol,比索洛尔,C07A,Cardiovascular,Capsules,50mgx100,1,0,0,0,31.19,48,Ambient,0,正大天晴,30
+SKU-0048,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Granules 100mgx28,瑞舒伐他汀Granules 100mgx28,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Granules,100mgx28,1,0,0,0,23.2,12,Ambient,0,正大天晴,7
+SKU-0049,C08CA01,C,C08,C08C,C08CA,Amlodipine Oral Solution 20mgx100,氨氯地平Oral Solution 20mgx100,Amlodipine,氨氯地平,C08C,Cardiovascular,Oral Solution,20mgx100,1,0,1,3,78.95,18,Ambient,0,辉瑞制药,30
+SKU-0050,C07AB02,C,C07,C07A,C07AB,Metoprolol Granules 50mgx28,美托洛尔Granules 50mgx28,Metoprolol,美托洛尔,C07A,Cardiovascular,Granules,50mgx28,1,0,0,0,12.99,12,Ambient,0,科伦药业,14
+SKU-0051,C09CA03,C,C09,C09C,C09CA,Valsartan Tablets 500mgx7,缬沙坦Tablets 500mgx7,Valsartan,缬沙坦,C09C,Cardiovascular,Tablets,500mgx7,1,0,0,0,10.91,18,Ambient,0,正大天晴,7
+SKU-0052,C10AA05,C,C10,C10A,C10AA,Atorvastatin Tablets 5mgx60,阿托伐他汀Tablets 5mgx60,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Tablets,5mgx60,1,0,1,9,20.0,12,Ambient,0,赛诺菲,14
+SKU-0053,C10AA01,C,C10,C10A,C10AA,Simvastatin Granules 10mgx100,辛伐他汀Granules 10mgx100,Simvastatin,辛伐他汀,C10A,Cardiovascular,Granules,10mgx100,1,0,0,0,27.0,36,Ambient,0,正大天晴,30
+SKU-0054,C09CA01,C,C09,C09C,C09CA,Losartan Granules 100mgx100,氯沙坦Granules 100mgx100,Losartan,氯沙坦,C09C,Cardiovascular,Granules,100mgx100,1,0,0,0,78.5,18,Ambient,0,正大天晴,30
+SKU-0055,C07AB07,C,C07,C07A,C07AB,Bisoprolol Injection 100mgx30,比索洛尔Injection 100mgx30,Bisoprolol,比索洛尔,C07A,Cardiovascular,Injection,100mgx30,1,1,0,0,6.12,12,Ambient,0,石药集团,21
+SKU-0056,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Tablets 25mgx28,瑞舒伐他汀Tablets 25mgx28,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Tablets,25mgx28,1,0,1,7,66.14,24,Ambient,0,正大天晴,14
+SKU-0057,C08CA01,C,C08,C08C,C08CA,Amlodipine Oral Solution 100mgx14,氨氯地平Oral Solution 100mgx14,Amlodipine,氨氯地平,C08C,Cardiovascular,Oral Solution,100mgx14,1,0,0,0,16.59,12,Ambient,0,辉瑞制药,14
+SKU-0058,C07AB02,C,C07,C07A,C07AB,Metoprolol Oral Solution 500mgx90,美托洛尔Oral Solution 500mgx90,Metoprolol,美托洛尔,C07A,Cardiovascular,Oral Solution,500mgx90,1,0,0,0,26.61,18,Ambient,0,阿斯利康,14
+SKU-0059,C09CA03,C,C09,C09C,C09CA,Valsartan Tablets 10mgx21,缬沙坦Tablets 10mgx21,Valsartan,缬沙坦,C09C,Cardiovascular,Tablets,10mgx21,1,1,0,0,60.08,18,Ambient,0,石药集团,30
+SKU-0060,C10AA05,C,C10,C10A,C10AA,Atorvastatin Oral Solution 250mgx90,阿托伐他汀Oral Solution 250mgx90,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Oral Solution,250mgx90,1,0,0,0,20.03,24,Ambient,0,阿斯利康,14
+SKU-0061,C10AA01,C,C10,C10A,C10AA,Simvastatin Tablets 50mgx28,辛伐他汀Tablets 50mgx28,Simvastatin,辛伐他汀,C10A,Cardiovascular,Tablets,50mgx28,1,0,1,2,32.98,48,Ambient,0,科伦药业,7
+SKU-0062,C09CA01,C,C09,C09C,C09CA,Losartan Granules 5mgx100,氯沙坦Granules 5mgx100,Losartan,氯沙坦,C09C,Cardiovascular,Granules,5mgx100,1,1,1,5,40.37,36,Ambient,0,辉瑞制药,7
+SKU-0063,C07AB07,C,C07,C07A,C07AB,Bisoprolol Capsules 500mgx28,比索洛尔Capsules 500mgx28,Bisoprolol,比索洛尔,C07A,Cardiovascular,Capsules,500mgx28,1,0,0,0,79.96,36,Ambient,0,辉瑞制药,21
+SKU-0064,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Oral Solution 5mgx30,瑞舒伐他汀Oral Solution 5mgx30,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Oral Solution,5mgx30,1,0,1,4,55.78,36,Ambient,0,扬子江药业,14
+SKU-0065,C08CA01,C,C08,C08C,C08CA,Amlodipine Capsules 20mgx90,氨氯地平Capsules 20mgx90,Amlodipine,氨氯地平,C08C,Cardiovascular,Capsules,20mgx90,1,1,1,1,23.85,36,Ambient,0,科伦药业,30
+SKU-0066,C07AB02,C,C07,C07A,C07AB,Metoprolol Injection 500mgx60,美托洛尔Injection 500mgx60,Metoprolol,美托洛尔,C07A,Cardiovascular,Injection,500mgx60,1,0,0,0,47.41,18,Ambient,0,恒瑞医药,21
+SKU-0067,C09CA03,C,C09,C09C,C09CA,Valsartan Granules 25mgx14,缬沙坦Granules 25mgx14,Valsartan,缬沙坦,C09C,Cardiovascular,Granules,25mgx14,1,0,0,0,34.23,24,Ambient,0,赛诺菲,14
+SKU-0068,C10AA05,C,C10,C10A,C10AA,Atorvastatin Tablets 500mgx90,阿托伐他汀Tablets 500mgx90,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Tablets,500mgx90,1,1,0,0,48.76,48,Ambient,0,石药集团,30
+SKU-0069,C10AA01,C,C10,C10A,C10AA,Simvastatin Injection 250mgx90,辛伐他汀Injection 250mgx90,Simvastatin,辛伐他汀,C10A,Cardiovascular,Injection,250mgx90,1,0,0,0,18.49,24,Ambient,0,诺华制药,7
+SKU-0070,C09CA01,C,C09,C09C,C09CA,Losartan Tablets 100mgx28,氯沙坦Tablets 100mgx28,Losartan,氯沙坦,C09C,Cardiovascular,Tablets,100mgx28,1,0,0,0,74.59,24,Cold Chain,1,扬子江药业,7
+SKU-0071,C07AB07,C,C07,C07A,C07AB,Bisoprolol Injection 250mgx100,比索洛尔Injection 250mgx100,Bisoprolol,比索洛尔,C07A,Cardiovascular,Injection,250mgx100,1,0,0,0,5.62,12,Ambient,0,齐鲁制药,30
+SKU-0072,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Tablets 50mgx100,瑞舒伐他汀Tablets 50mgx100,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Tablets,50mgx100,1,1,1,7,76.95,48,Ambient,0,辉瑞制药,7
+SKU-0073,C08CA01,C,C08,C08C,C08CA,Amlodipine Oral Solution 20mgx21,氨氯地平Oral Solution 20mgx21,Amlodipine,氨氯地平,C08C,Cardiovascular,Oral Solution,20mgx21,1,0,0,0,5.07,36,Ambient,0,正大天晴,7
+SKU-0074,C07AB02,C,C07,C07A,C07AB,Metoprolol Capsules 10mgx30,美托洛尔Capsules 10mgx30,Metoprolol,美托洛尔,C07A,Cardiovascular,Capsules,10mgx30,1,0,0,0,73.61,18,Ambient,0,齐鲁制药,21
+SKU-0075,C09CA03,C,C09,C09C,C09CA,Valsartan Granules 25mgx14,缬沙坦Granules 25mgx14,Valsartan,缬沙坦,C09C,Cardiovascular,Granules,25mgx14,1,0,0,0,72.05,48,Ambient,0,科伦药业,14
+SKU-0076,C10AA05,C,C10,C10A,C10AA,Atorvastatin Tablets 250mgx21,阿托伐他汀Tablets 250mgx21,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Tablets,250mgx21,1,0,1,7,73.16,36,Ambient,0,扬子江药业,14
+SKU-0077,C10AA01,C,C10,C10A,C10AA,Simvastatin Injection 500mgx90,辛伐他汀Injection 500mgx90,Simvastatin,辛伐他汀,C10A,Cardiovascular,Injection,500mgx90,1,0,0,0,31.1,24,Ambient,0,赛诺菲,7
+SKU-0078,C09CA01,C,C09,C09C,C09CA,Losartan Oral Solution 250mgx14,氯沙坦Oral Solution 250mgx14,Losartan,氯沙坦,C09C,Cardiovascular,Oral Solution,250mgx14,1,0,1,3,35.6,36,Ambient,0,石药集团,21
+SKU-0079,C07AB07,C,C07,C07A,C07AB,Bisoprolol Tablets 250mgx21,比索洛尔Tablets 250mgx21,Bisoprolol,比索洛尔,C07A,Cardiovascular,Tablets,250mgx21,1,1,1,4,12.07,18,Ambient,0,石药集团,21
+SKU-0080,C10AA07,C,C10,C10A,C10AA,Rosuvastatin Capsules 250mgx30,瑞舒伐他汀Capsules 250mgx30,Rosuvastatin,瑞舒伐他汀,C10A,Cardiovascular,Capsules,250mgx30,1,0,0,0,68.51,36,Ambient,0,齐鲁制药,21
+SKU-0081,C08CA01,C,C08,C08C,C08CA,Amlodipine Injection 100mgx100,氨氯地平Injection 100mgx100,Amlodipine,氨氯地平,C08C,Cardiovascular,Injection,100mgx100,1,1,1,5,55.9,18,Ambient,0,石药集团,7
+SKU-0082,C07AB02,C,C07,C07A,C07AB,Metoprolol Oral Solution 25mgx28,美托洛尔Oral Solution 25mgx28,Metoprolol,美托洛尔,C07A,Cardiovascular,Oral Solution,25mgx28,1,0,1,4,71.65,36,Ambient,0,扬子江药业,14
+SKU-0083,C09CA03,C,C09,C09C,C09CA,Valsartan Injection 250mgx14,缬沙坦Injection 250mgx14,Valsartan,缬沙坦,C09C,Cardiovascular,Injection,250mgx14,1,0,0,0,35.87,12,Ambient,0,赛诺菲,30
+SKU-0084,C10AA05,C,C10,C10A,C10AA,Atorvastatin Granules 5mgx30,阿托伐他汀Granules 5mgx30,Atorvastatin,阿托伐他汀,C10A,Cardiovascular,Granules,5mgx30,1,0,0,0,9.86,18,Ambient,0,扬子江药业,30
+SKU-0085,J01CA04,J,J01,J01C,J01CA,Amoxicillin Injection 500mgx90,阿莫西林Injection 500mgx90,Amoxicillin,阿莫西林,J01C,Antibiotics,Injection,500mgx90,1,0,1,1,16.06,12,Ambient,0,正大天晴,30
+SKU-0086,J01FA10,J,J01,J01F,J01FA,Azithromycin Granules 50mgx30,阿奇霉素Granules 50mgx30,Azithromycin,阿奇霉素,J01F,Antibiotics,Granules,50mgx30,1,1,1,5,20.11,24,Ambient,0,诺华制药,30
+SKU-0087,J01DC02,J,J01,J01D,J01DC,Cefuroxime Tablets 50mgx28,头孢呋辛Tablets 50mgx28,Cefuroxime,头孢呋辛,J01D,Antibiotics,Tablets,50mgx28,1,0,1,4,29.84,18,Ambient,0,齐鲁制药,7
+SKU-0088,J01MA12,J,J01,J01M,J01MA,Levofloxacin Oral Solution 50mgx30,左氧氟沙星Oral Solution 50mgx30,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Oral Solution,50mgx30,1,0,0,0,45.92,24,Ambient,0,阿斯利康,30
+SKU-0089,J01XD01,J,J01,J01X,J01XD,Metronidazole Injection 20mgx60,甲硝唑Injection 20mgx60,Metronidazole,甲硝唑,J01X,Antibiotics,Injection,20mgx60,1,0,0,0,48.55,18,Ambient,0,扬子江药业,30
+SKU-0090,J01DD08,J,J01,J01D,J01DD,Cefixime Tablets 20mgx60,头孢克肟Tablets 20mgx60,Cefixime,头孢克肟,J01D,Antibiotics,Tablets,20mgx60,1,0,1,1,77.52,48,Cold Chain,1,正大天晴,30
+SKU-0091,J01FA09,J,J01,J01F,J01FA,Clarithromycin Granules 500mgx60,克拉霉素Granules 500mgx60,Clarithromycin,克拉霉素,J01F,Antibiotics,Granules,500mgx60,1,1,1,3,20.98,48,Ambient,0,齐鲁制药,14
+SKU-0092,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Injection 25mgx60,莫西沙星Injection 25mgx60,Moxifloxacin,莫西沙星,J01M,Antibiotics,Injection,25mgx60,1,0,0,0,50.87,18,Ambient,0,恒瑞医药,21
+SKU-0093,J01CA04,J,J01,J01C,J01CA,Amoxicillin Capsules 25mgx100,阿莫西林Capsules 25mgx100,Amoxicillin,阿莫西林,J01C,Antibiotics,Capsules,25mgx100,1,1,0,0,79.78,18,Ambient,0,赛诺菲,30
+SKU-0094,J01FA10,J,J01,J01F,J01FA,Azithromycin Granules 100mgx90,阿奇霉素Granules 100mgx90,Azithromycin,阿奇霉素,J01F,Antibiotics,Granules,100mgx90,1,1,0,0,54.32,36,Ambient,0,石药集团,30
+SKU-0095,J01DC02,J,J01,J01D,J01DC,Cefuroxime Granules 250mgx100,头孢呋辛Granules 250mgx100,Cefuroxime,头孢呋辛,J01D,Antibiotics,Granules,250mgx100,1,0,1,3,66.55,18,Ambient,0,阿斯利康,30
+SKU-0096,J01MA12,J,J01,J01M,J01MA,Levofloxacin Tablets 5mgx30,左氧氟沙星Tablets 5mgx30,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Tablets,5mgx30,1,1,0,0,34.2,18,Ambient,0,扬子江药业,21
+SKU-0097,J01XD01,J,J01,J01X,J01XD,Metronidazole Capsules 500mgx7,甲硝唑Capsules 500mgx7,Metronidazole,甲硝唑,J01X,Antibiotics,Capsules,500mgx7,1,1,1,7,78.04,12,Ambient,0,正大天晴,30
+SKU-0098,J01DD08,J,J01,J01D,J01DD,Cefixime Capsules 250mgx7,头孢克肟Capsules 250mgx7,Cefixime,头孢克肟,J01D,Antibiotics,Capsules,250mgx7,1,1,0,0,79.87,18,Ambient,0,正大天晴,30
+SKU-0099,J01FA09,J,J01,J01F,J01FA,Clarithromycin Capsules 500mgx60,克拉霉素Capsules 500mgx60,Clarithromycin,克拉霉素,J01F,Antibiotics,Capsules,500mgx60,1,0,1,5,44.85,36,Ambient,0,扬子江药业,14
+SKU-0100,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Granules 100mgx100,莫西沙星Granules 100mgx100,Moxifloxacin,莫西沙星,J01M,Antibiotics,Granules,100mgx100,1,0,0,0,76.82,12,Ambient,0,石药集团,30
+SKU-0101,J01CA04,J,J01,J01C,J01CA,Amoxicillin Tablets 5mgx60,阿莫西林Tablets 5mgx60,Amoxicillin,阿莫西林,J01C,Antibiotics,Tablets,5mgx60,1,0,1,2,18.72,24,Ambient,0,诺华制药,21
+SKU-0102,J01FA10,J,J01,J01F,J01FA,Azithromycin Oral Solution 5mgx21,阿奇霉素Oral Solution 5mgx21,Azithromycin,阿奇霉素,J01F,Antibiotics,Oral Solution,5mgx21,1,0,0,0,6.44,48,Ambient,0,恒瑞医药,21
+SKU-0103,J01DC02,J,J01,J01D,J01DC,Cefuroxime Injection 500mgx28,头孢呋辛Injection 500mgx28,Cefuroxime,头孢呋辛,J01D,Antibiotics,Injection,500mgx28,1,0,0,0,68.56,12,Ambient,0,扬子江药业,30
+SKU-0104,J01MA12,J,J01,J01M,J01MA,Levofloxacin Capsules 20mgx7,左氧氟沙星Capsules 20mgx7,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Capsules,20mgx7,1,0,0,0,34.66,36,Cold Chain,1,石药集团,7
+SKU-0105,J01XD01,J,J01,J01X,J01XD,Metronidazole Injection 25mgx28,甲硝唑Injection 25mgx28,Metronidazole,甲硝唑,J01X,Antibiotics,Injection,25mgx28,1,0,0,0,66.93,18,Ambient,0,齐鲁制药,21
+SKU-0106,J01DD08,J,J01,J01D,J01DD,Cefixime Oral Solution 50mgx7,头孢克肟Oral Solution 50mgx7,Cefixime,头孢克肟,J01D,Antibiotics,Oral Solution,50mgx7,1,0,0,0,29.27,18,Ambient,0,赛诺菲,7
+SKU-0107,J01FA09,J,J01,J01F,J01FA,Clarithromycin Granules 100mgx60,克拉霉素Granules 100mgx60,Clarithromycin,克拉霉素,J01F,Antibiotics,Granules,100mgx60,1,1,0,0,42.56,48,Ambient,0,科伦药业,14
+SKU-0108,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Tablets 5mgx100,莫西沙星Tablets 5mgx100,Moxifloxacin,莫西沙星,J01M,Antibiotics,Tablets,5mgx100,1,1,1,2,8.62,36,Ambient,0,齐鲁制药,14
+SKU-0109,J01CA04,J,J01,J01C,J01CA,Amoxicillin Oral Solution 50mgx7,阿莫西林Oral Solution 50mgx7,Amoxicillin,阿莫西林,J01C,Antibiotics,Oral Solution,50mgx7,1,0,1,9,39.57,24,Ambient,0,齐鲁制药,21
+SKU-0110,J01FA10,J,J01,J01F,J01FA,Azithromycin Granules 20mgx60,阿奇霉素Granules 20mgx60,Azithromycin,阿奇霉素,J01F,Antibiotics,Granules,20mgx60,1,0,0,0,39.63,36,Ambient,0,诺华制药,21
+SKU-0111,J01DC02,J,J01,J01D,J01DC,Cefuroxime Tablets 50mgx60,头孢呋辛Tablets 50mgx60,Cefuroxime,头孢呋辛,J01D,Antibiotics,Tablets,50mgx60,1,0,1,3,68.66,18,Ambient,0,科伦药业,30
+SKU-0112,J01MA12,J,J01,J01M,J01MA,Levofloxacin Capsules 10mgx100,左氧氟沙星Capsules 10mgx100,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Capsules,10mgx100,1,0,1,1,49.26,24,Ambient,0,辉瑞制药,21
+SKU-0113,J01XD01,J,J01,J01X,J01XD,Metronidazole Tablets 50mgx100,甲硝唑Tablets 50mgx100,Metronidazole,甲硝唑,J01X,Antibiotics,Tablets,50mgx100,1,0,0,0,46.7,12,Ambient,0,齐鲁制药,7
+SKU-0114,J01DD08,J,J01,J01D,J01DD,Cefixime Granules 500mgx90,头孢克肟Granules 500mgx90,Cefixime,头孢克肟,J01D,Antibiotics,Granules,500mgx90,1,0,0,0,70.52,18,Ambient,0,诺华制药,7
+SKU-0115,J01FA09,J,J01,J01F,J01FA,Clarithromycin Capsules 500mgx90,克拉霉素Capsules 500mgx90,Clarithromycin,克拉霉素,J01F,Antibiotics,Capsules,500mgx90,1,0,0,0,9.06,36,Ambient,0,恒瑞医药,7
+SKU-0116,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Tablets 500mgx28,莫西沙星Tablets 500mgx28,Moxifloxacin,莫西沙星,J01M,Antibiotics,Tablets,500mgx28,1,0,0,0,62.55,24,Ambient,0,恒瑞医药,7
+SKU-0117,J01CA04,J,J01,J01C,J01CA,Amoxicillin Granules 250mgx21,阿莫西林Granules 250mgx21,Amoxicillin,阿莫西林,J01C,Antibiotics,Granules,250mgx21,1,0,0,0,61.25,24,Cold Chain,1,阿斯利康,14
+SKU-0118,J01FA10,J,J01,J01F,J01FA,Azithromycin Oral Solution 100mgx60,阿奇霉素Oral Solution 100mgx60,Azithromycin,阿奇霉素,J01F,Antibiotics,Oral Solution,100mgx60,1,0,0,0,79.79,48,Ambient,0,石药集团,14
+SKU-0119,J01DC02,J,J01,J01D,J01DC,Cefuroxime Granules 500mgx60,头孢呋辛Granules 500mgx60,Cefuroxime,头孢呋辛,J01D,Antibiotics,Granules,500mgx60,1,1,0,0,78.24,36,Ambient,0,辉瑞制药,14
+SKU-0120,J01MA12,J,J01,J01M,J01MA,Levofloxacin Granules 5mgx30,左氧氟沙星Granules 5mgx30,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Granules,5mgx30,1,0,1,1,65.2,36,Ambient,0,诺华制药,14
+SKU-0121,J01XD01,J,J01,J01X,J01XD,Metronidazole Oral Solution 10mgx28,甲硝唑Oral Solution 10mgx28,Metronidazole,甲硝唑,J01X,Antibiotics,Oral Solution,10mgx28,1,0,0,0,20.8,12,Ambient,0,阿斯利康,7
+SKU-0122,J01DD08,J,J01,J01D,J01DD,Cefixime Granules 250mgx30,头孢克肟Granules 250mgx30,Cefixime,头孢克肟,J01D,Antibiotics,Granules,250mgx30,1,0,0,0,15.5,24,Ambient,0,赛诺菲,30
+SKU-0123,J01FA09,J,J01,J01F,J01FA,Clarithromycin Injection 250mgx14,克拉霉素Injection 250mgx14,Clarithromycin,克拉霉素,J01F,Antibiotics,Injection,250mgx14,1,0,0,0,77.17,36,Ambient,0,阿斯利康,21
+SKU-0124,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Tablets 25mgx7,莫西沙星Tablets 25mgx7,Moxifloxacin,莫西沙星,J01M,Antibiotics,Tablets,25mgx7,1,0,0,0,74.91,36,Ambient,0,辉瑞制药,7
+SKU-0125,J01CA04,J,J01,J01C,J01CA,Amoxicillin Granules 5mgx28,阿莫西林Granules 5mgx28,Amoxicillin,阿莫西林,J01C,Antibiotics,Granules,5mgx28,1,0,0,0,39.41,24,Ambient,0,阿斯利康,7
+SKU-0126,J01FA10,J,J01,J01F,J01FA,Azithromycin Capsules 25mgx90,阿奇霉素Capsules 25mgx90,Azithromycin,阿奇霉素,J01F,Antibiotics,Capsules,25mgx90,1,1,0,0,25.6,18,Cold Chain,1,科伦药业,14
+SKU-0127,J01DC02,J,J01,J01D,J01DC,Cefuroxime Tablets 10mgx100,头孢呋辛Tablets 10mgx100,Cefuroxime,头孢呋辛,J01D,Antibiotics,Tablets,10mgx100,1,0,0,0,36.01,12,Ambient,0,扬子江药业,21
+SKU-0128,J01MA12,J,J01,J01M,J01MA,Levofloxacin Tablets 25mgx90,左氧氟沙星Tablets 25mgx90,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Tablets,25mgx90,1,0,0,0,6.12,12,Ambient,0,辉瑞制药,30
+SKU-0129,J01XD01,J,J01,J01X,J01XD,Metronidazole Capsules 100mgx28,甲硝唑Capsules 100mgx28,Metronidazole,甲硝唑,J01X,Antibiotics,Capsules,100mgx28,1,0,1,9,14.62,48,Ambient,0,恒瑞医药,30
+SKU-0130,J01DD08,J,J01,J01D,J01DD,Cefixime Oral Solution 5mgx90,头孢克肟Oral Solution 5mgx90,Cefixime,头孢克肟,J01D,Antibiotics,Oral Solution,5mgx90,1,0,0,0,67.46,24,Ambient,0,辉瑞制药,21
+SKU-0131,J01FA09,J,J01,J01F,J01FA,Clarithromycin Tablets 10mgx100,克拉霉素Tablets 10mgx100,Clarithromycin,克拉霉素,J01F,Antibiotics,Tablets,10mgx100,1,0,1,2,19.66,18,Ambient,0,科伦药业,14
+SKU-0132,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Injection 250mgx7,莫西沙星Injection 250mgx7,Moxifloxacin,莫西沙星,J01M,Antibiotics,Injection,250mgx7,1,0,1,3,46.46,18,Ambient,0,齐鲁制药,7
+SKU-0133,J01CA04,J,J01,J01C,J01CA,Amoxicillin Injection 100mgx21,阿莫西林Injection 100mgx21,Amoxicillin,阿莫西林,J01C,Antibiotics,Injection,100mgx21,1,1,0,0,8.34,48,Ambient,0,扬子江药业,21
+SKU-0134,J01FA10,J,J01,J01F,J01FA,Azithromycin Capsules 10mgx100,阿奇霉素Capsules 10mgx100,Azithromycin,阿奇霉素,J01F,Antibiotics,Capsules,10mgx100,1,0,0,0,46.83,12,Ambient,0,辉瑞制药,14
+SKU-0135,J01DC02,J,J01,J01D,J01DC,Cefuroxime Tablets 50mgx30,头孢呋辛Tablets 50mgx30,Cefuroxime,头孢呋辛,J01D,Antibiotics,Tablets,50mgx30,1,0,1,7,57.88,24,Ambient,0,齐鲁制药,14
+SKU-0136,J01MA12,J,J01,J01M,J01MA,Levofloxacin Granules 250mgx28,左氧氟沙星Granules 250mgx28,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Granules,250mgx28,1,0,1,9,21.05,48,Ambient,0,赛诺菲,14
+SKU-0137,J01XD01,J,J01,J01X,J01XD,Metronidazole Tablets 10mgx14,甲硝唑Tablets 10mgx14,Metronidazole,甲硝唑,J01X,Antibiotics,Tablets,10mgx14,1,1,0,0,5.66,48,Ambient,0,正大天晴,21
+SKU-0138,J01DD08,J,J01,J01D,J01DD,Cefixime Injection 100mgx90,头孢克肟Injection 100mgx90,Cefixime,头孢克肟,J01D,Antibiotics,Injection,100mgx90,1,0,1,2,62.27,18,Ambient,0,恒瑞医药,21
+SKU-0139,J01FA09,J,J01,J01F,J01FA,Clarithromycin Capsules 100mgx21,克拉霉素Capsules 100mgx21,Clarithromycin,克拉霉素,J01F,Antibiotics,Capsules,100mgx21,1,0,0,0,63.24,12,Ambient,0,诺华制药,21
+SKU-0140,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Injection 500mgx100,莫西沙星Injection 500mgx100,Moxifloxacin,莫西沙星,J01M,Antibiotics,Injection,500mgx100,1,1,1,2,54.99,24,Ambient,0,赛诺菲,14
+SKU-0141,J01CA04,J,J01,J01C,J01CA,Amoxicillin Oral Solution 20mgx60,阿莫西林Oral Solution 20mgx60,Amoxicillin,阿莫西林,J01C,Antibiotics,Oral Solution,20mgx60,1,1,0,0,9.49,18,Ambient,0,正大天晴,7
+SKU-0142,J01FA10,J,J01,J01F,J01FA,Azithromycin Tablets 500mgx14,阿奇霉素Tablets 500mgx14,Azithromycin,阿奇霉素,J01F,Antibiotics,Tablets,500mgx14,1,0,1,9,26.87,36,Ambient,0,齐鲁制药,14
+SKU-0143,J01DC02,J,J01,J01D,J01DC,Cefuroxime Oral Solution 50mgx100,头孢呋辛Oral Solution 50mgx100,Cefuroxime,头孢呋辛,J01D,Antibiotics,Oral Solution,50mgx100,1,1,0,0,46.76,36,Ambient,0,诺华制药,7
+SKU-0144,J01MA12,J,J01,J01M,J01MA,Levofloxacin Capsules 250mgx7,左氧氟沙星Capsules 250mgx7,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Capsules,250mgx7,1,1,0,0,7.9,18,Ambient,0,科伦药业,21
+SKU-0145,J01XD01,J,J01,J01X,J01XD,Metronidazole Injection 20mgx30,甲硝唑Injection 20mgx30,Metronidazole,甲硝唑,J01X,Antibiotics,Injection,20mgx30,1,0,0,0,35.38,48,Ambient,0,诺华制药,14
+SKU-0146,J01DD08,J,J01,J01D,J01DD,Cefixime Injection 20mgx100,头孢克肟Injection 20mgx100,Cefixime,头孢克肟,J01D,Antibiotics,Injection,20mgx100,1,0,0,0,22.58,18,Ambient,0,阿斯利康,30
+SKU-0147,J01FA09,J,J01,J01F,J01FA,Clarithromycin Tablets 10mgx21,克拉霉素Tablets 10mgx21,Clarithromycin,克拉霉素,J01F,Antibiotics,Tablets,10mgx21,1,0,0,0,65.03,18,Ambient,0,齐鲁制药,30
+SKU-0148,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Granules 50mgx30,莫西沙星Granules 50mgx30,Moxifloxacin,莫西沙星,J01M,Antibiotics,Granules,50mgx30,1,0,0,0,18.5,36,Ambient,0,扬子江药业,21
+SKU-0149,J01CA04,J,J01,J01C,J01CA,Amoxicillin Capsules 10mgx28,阿莫西林Capsules 10mgx28,Amoxicillin,阿莫西林,J01C,Antibiotics,Capsules,10mgx28,1,1,0,0,49.62,36,Ambient,0,赛诺菲,14
+SKU-0150,J01FA10,J,J01,J01F,J01FA,Azithromycin Granules 25mgx90,阿奇霉素Granules 25mgx90,Azithromycin,阿奇霉素,J01F,Antibiotics,Granules,25mgx90,1,0,0,0,20.67,48,Ambient,0,齐鲁制药,30
+SKU-0151,J01DC02,J,J01,J01D,J01DC,Cefuroxime Granules 100mgx7,头孢呋辛Granules 100mgx7,Cefuroxime,头孢呋辛,J01D,Antibiotics,Granules,100mgx7,1,0,0,0,77.45,18,Ambient,0,诺华制药,14
+SKU-0152,J01MA12,J,J01,J01M,J01MA,Levofloxacin Tablets 25mgx100,左氧氟沙星Tablets 25mgx100,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Tablets,25mgx100,1,1,1,7,19.04,24,Ambient,0,辉瑞制药,14
+SKU-0153,J01XD01,J,J01,J01X,J01XD,Metronidazole Capsules 250mgx21,甲硝唑Capsules 250mgx21,Metronidazole,甲硝唑,J01X,Antibiotics,Capsules,250mgx21,1,0,1,3,73.46,36,Ambient,0,科伦药业,21
+SKU-0154,J01DD08,J,J01,J01D,J01DD,Cefixime Injection 20mgx28,头孢克肟Injection 20mgx28,Cefixime,头孢克肟,J01D,Antibiotics,Injection,20mgx28,1,0,0,0,39.34,12,Ambient,0,恒瑞医药,14
+SKU-0155,J01FA09,J,J01,J01F,J01FA,Clarithromycin Tablets 10mgx7,克拉霉素Tablets 10mgx7,Clarithromycin,克拉霉素,J01F,Antibiotics,Tablets,10mgx7,1,0,0,0,55.88,24,Ambient,0,扬子江药业,7
+SKU-0156,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Granules 50mgx21,莫西沙星Granules 50mgx21,Moxifloxacin,莫西沙星,J01M,Antibiotics,Granules,50mgx21,1,0,1,9,44.98,18,Ambient,0,诺华制药,14
+SKU-0157,J01CA04,J,J01,J01C,J01CA,Amoxicillin Oral Solution 25mgx14,阿莫西林Oral Solution 25mgx14,Amoxicillin,阿莫西林,J01C,Antibiotics,Oral Solution,25mgx14,1,0,0,0,70.79,18,Ambient,0,恒瑞医药,30
+SKU-0158,J01FA10,J,J01,J01F,J01FA,Azithromycin Injection 250mgx90,阿奇霉素Injection 250mgx90,Azithromycin,阿奇霉素,J01F,Antibiotics,Injection,250mgx90,1,0,0,0,73.02,48,Ambient,0,恒瑞医药,7
+SKU-0159,J01DC02,J,J01,J01D,J01DC,Cefuroxime Granules 5mgx90,头孢呋辛Granules 5mgx90,Cefuroxime,头孢呋辛,J01D,Antibiotics,Granules,5mgx90,1,0,0,0,36.18,48,Ambient,0,石药集团,30
+SKU-0160,J01MA12,J,J01,J01M,J01MA,Levofloxacin Tablets 250mgx30,左氧氟沙星Tablets 250mgx30,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Tablets,250mgx30,1,0,0,0,32.63,36,Ambient,0,恒瑞医药,30
+SKU-0161,J01XD01,J,J01,J01X,J01XD,Metronidazole Capsules 50mgx14,甲硝唑Capsules 50mgx14,Metronidazole,甲硝唑,J01X,Antibiotics,Capsules,50mgx14,1,1,0,0,30.98,48,Ambient,0,阿斯利康,7
+SKU-0162,J01DD08,J,J01,J01D,J01DD,Cefixime Capsules 250mgx14,头孢克肟Capsules 250mgx14,Cefixime,头孢克肟,J01D,Antibiotics,Capsules,250mgx14,1,1,0,0,8.68,18,Ambient,0,辉瑞制药,21
+SKU-0163,J01FA09,J,J01,J01F,J01FA,Clarithromycin Granules 10mgx28,克拉霉素Granules 10mgx28,Clarithromycin,克拉霉素,J01F,Antibiotics,Granules,10mgx28,1,0,1,1,25.54,24,Ambient,0,诺华制药,7
+SKU-0164,J01MA14,J,J01,J01M,J01MA,Moxifloxacin Tablets 25mgx90,莫西沙星Tablets 25mgx90,Moxifloxacin,莫西沙星,J01M,Antibiotics,Tablets,25mgx90,1,1,0,0,76.46,48,Ambient,0,诺华制药,14
+SKU-0165,J01CA04,J,J01,J01C,J01CA,Amoxicillin Injection 100mgx100,阿莫西林Injection 100mgx100,Amoxicillin,阿莫西林,J01C,Antibiotics,Injection,100mgx100,1,0,0,0,8.45,24,Ambient,0,诺华制药,14
+SKU-0166,J01FA10,J,J01,J01F,J01FA,Azithromycin Oral Solution 25mgx21,阿奇霉素Oral Solution 25mgx21,Azithromycin,阿奇霉素,J01F,Antibiotics,Oral Solution,25mgx21,1,1,1,5,36.76,36,Ambient,0,正大天晴,30
+SKU-0167,J01DC02,J,J01,J01D,J01DC,Cefuroxime Oral Solution 50mgx21,头孢呋辛Oral Solution 50mgx21,Cefuroxime,头孢呋辛,J01D,Antibiotics,Oral Solution,50mgx21,1,1,0,0,67.67,18,Ambient,0,石药集团,21
+SKU-0168,J01MA12,J,J01,J01M,J01MA,Levofloxacin Capsules 25mgx30,左氧氟沙星Capsules 25mgx30,Levofloxacin,左氧氟沙星,J01M,Antibiotics,Capsules,25mgx30,1,1,0,0,24.2,18,Ambient,0,齐鲁制药,7
+SKU-0169,A10BA02,A,A10,A10B,A10BA,Metformin Tablets 5mgx14,二甲双胍Tablets 5mgx14,Metformin,二甲双胍,A10B,Diabetes,Tablets,5mgx14,1,1,0,0,31.01,12,Ambient,0,恒瑞医药,21
+SKU-0170,A10BB12,A,A10,A10B,A10BB,Glimepiride Oral Solution 20mgx90,格列美脲Oral Solution 20mgx90,Glimepiride,格列美脲,A10B,Diabetes,Oral Solution,20mgx90,1,1,0,0,8.57,36,Ambient,0,齐鲁制药,30
+SKU-0171,A10BH01,A,A10,A10B,A10BH,Sitagliptin Granules 5mgx30,西格列汀Granules 5mgx30,Sitagliptin,西格列汀,A10B,Diabetes,Granules,5mgx30,1,0,1,7,41.44,12,Ambient,0,扬子江药业,14
+SKU-0172,A10BK03,A,A10,A10B,A10BK,Empagliflozin Granules 5mgx90,恩格列净Granules 5mgx90,Empagliflozin,恩格列净,A10B,Diabetes,Granules,5mgx90,1,0,0,0,19.96,18,Ambient,0,扬子江药业,30
+SKU-0173,A10BB09,A,A10,A10B,A10BB,Gliclazide Injection 10mgx60,格列齐特Injection 10mgx60,Gliclazide,格列齐特,A10B,Diabetes,Injection,10mgx60,1,1,1,5,31.37,12,Ambient,0,石药集团,14
+SKU-0174,A10BH05,A,A10,A10B,A10BH,Linagliptin Capsules 5mgx60,利格列汀Capsules 5mgx60,Linagliptin,利格列汀,A10B,Diabetes,Capsules,5mgx60,1,0,0,0,72.62,24,Ambient,0,扬子江药业,30
+SKU-0175,A10BF01,A,A10,A10B,A10BF,Acarbose Oral Solution 250mgx30,阿卡波糖Oral Solution 250mgx30,Acarbose,阿卡波糖,A10B,Diabetes,Oral Solution,250mgx30,1,0,0,0,23.66,48,Ambient,0,阿斯利康,7
+SKU-0176,A10BX02,A,A10,A10B,A10BX,Repaglinide Capsules 25mgx100,瑞格列奈Capsules 25mgx100,Repaglinide,瑞格列奈,A10B,Diabetes,Capsules,25mgx100,1,1,0,0,57.7,48,Ambient,0,齐鲁制药,7
+SKU-0177,A10BA02,A,A10,A10B,A10BA,Metformin Oral Solution 20mgx90,二甲双胍Oral Solution 20mgx90,Metformin,二甲双胍,A10B,Diabetes,Oral Solution,20mgx90,1,0,0,0,44.68,18,Cold Chain,1,诺华制药,7
+SKU-0178,A10BB12,A,A10,A10B,A10BB,Glimepiride Granules 50mgx60,格列美脲Granules 50mgx60,Glimepiride,格列美脲,A10B,Diabetes,Granules,50mgx60,1,1,0,0,77.21,12,Ambient,0,正大天晴,21
+SKU-0179,A10BH01,A,A10,A10B,A10BH,Sitagliptin Oral Solution 20mgx7,西格列汀Oral Solution 20mgx7,Sitagliptin,西格列汀,A10B,Diabetes,Oral Solution,20mgx7,1,0,0,0,7.55,24,Ambient,0,齐鲁制药,30
+SKU-0180,A10BK03,A,A10,A10B,A10BK,Empagliflozin Oral Solution 100mgx90,恩格列净Oral Solution 100mgx90,Empagliflozin,恩格列净,A10B,Diabetes,Oral Solution,100mgx90,1,0,0,0,11.75,24,Cold Chain,1,齐鲁制药,21
+SKU-0181,A10BB09,A,A10,A10B,A10BB,Gliclazide Oral Solution 25mgx100,格列齐特Oral Solution 25mgx100,Gliclazide,格列齐特,A10B,Diabetes,Oral Solution,25mgx100,1,0,1,3,70.98,36,Cold Chain,1,阿斯利康,14
+SKU-0182,A10BH05,A,A10,A10B,A10BH,Linagliptin Tablets 50mgx100,利格列汀Tablets 50mgx100,Linagliptin,利格列汀,A10B,Diabetes,Tablets,50mgx100,1,0,0,0,67.57,12,Ambient,0,阿斯利康,14
+SKU-0183,A10BF01,A,A10,A10B,A10BF,Acarbose Tablets 5mgx14,阿卡波糖Tablets 5mgx14,Acarbose,阿卡波糖,A10B,Diabetes,Tablets,5mgx14,1,0,0,0,15.67,48,Ambient,0,齐鲁制药,30
+SKU-0184,A10BX02,A,A10,A10B,A10BX,Repaglinide Injection 20mgx7,瑞格列奈Injection 20mgx7,Repaglinide,瑞格列奈,A10B,Diabetes,Injection,20mgx7,1,0,0,0,39.12,12,Ambient,0,扬子江药业,7
+SKU-0185,A10BA02,A,A10,A10B,A10BA,Metformin Granules 20mgx90,二甲双胍Granules 20mgx90,Metformin,二甲双胍,A10B,Diabetes,Granules,20mgx90,1,1,0,0,13.6,24,Ambient,0,辉瑞制药,7
+SKU-0186,A10BB12,A,A10,A10B,A10BB,Glimepiride Capsules 10mgx21,格列美脲Capsules 10mgx21,Glimepiride,格列美脲,A10B,Diabetes,Capsules,10mgx21,1,0,0,0,69.44,18,Ambient,0,科伦药业,30
+SKU-0187,A10BH01,A,A10,A10B,A10BH,Sitagliptin Tablets 25mgx60,西格列汀Tablets 25mgx60,Sitagliptin,西格列汀,A10B,Diabetes,Tablets,25mgx60,1,0,0,0,18.3,12,Cold Chain,1,科伦药业,21
+SKU-0188,A10BK03,A,A10,A10B,A10BK,Empagliflozin Capsules 20mgx90,恩格列净Capsules 20mgx90,Empagliflozin,恩格列净,A10B,Diabetes,Capsules,20mgx90,1,1,0,0,62.69,24,Ambient,0,石药集团,14
+SKU-0189,A10BB09,A,A10,A10B,A10BB,Gliclazide Capsules 10mgx100,格列齐特Capsules 10mgx100,Gliclazide,格列齐特,A10B,Diabetes,Capsules,10mgx100,1,0,1,7,48.33,48,Ambient,0,科伦药业,14
+SKU-0190,A10BH05,A,A10,A10B,A10BH,Linagliptin Capsules 20mgx7,利格列汀Capsules 20mgx7,Linagliptin,利格列汀,A10B,Diabetes,Capsules,20mgx7,1,0,0,0,50.38,48,Ambient,0,辉瑞制药,30
+SKU-0191,A10BF01,A,A10,A10B,A10BF,Acarbose Capsules 50mgx28,阿卡波糖Capsules 50mgx28,Acarbose,阿卡波糖,A10B,Diabetes,Capsules,50mgx28,1,0,0,0,53.94,36,Ambient,0,齐鲁制药,30
+SKU-0192,A10BX02,A,A10,A10B,A10BX,Repaglinide Tablets 500mgx14,瑞格列奈Tablets 500mgx14,Repaglinide,瑞格列奈,A10B,Diabetes,Tablets,500mgx14,1,0,0,0,36.59,48,Ambient,0,科伦药业,21
+SKU-0193,A10BA02,A,A10,A10B,A10BA,Metformin Tablets 100mgx100,二甲双胍Tablets 100mgx100,Metformin,二甲双胍,A10B,Diabetes,Tablets,100mgx100,1,0,1,4,55.66,24,Ambient,0,齐鲁制药,7
+SKU-0194,A10BB12,A,A10,A10B,A10BB,Glimepiride Oral Solution 100mgx14,格列美脲Oral Solution 100mgx14,Glimepiride,格列美脲,A10B,Diabetes,Oral Solution,100mgx14,1,0,1,4,32.38,36,Ambient,0,赛诺菲,30
+SKU-0195,A10BH01,A,A10,A10B,A10BH,Sitagliptin Capsules 500mgx90,西格列汀Capsules 500mgx90,Sitagliptin,西格列汀,A10B,Diabetes,Capsules,500mgx90,1,0,0,0,29.92,24,Ambient,0,石药集团,21
+SKU-0196,A10BK03,A,A10,A10B,A10BK,Empagliflozin Granules 250mgx7,恩格列净Granules 250mgx7,Empagliflozin,恩格列净,A10B,Diabetes,Granules,250mgx7,1,0,0,0,34.49,18,Cold Chain,1,齐鲁制药,30
+SKU-0197,A10BB09,A,A10,A10B,A10BB,Gliclazide Oral Solution 25mgx14,格列齐特Oral Solution 25mgx14,Gliclazide,格列齐特,A10B,Diabetes,Oral Solution,25mgx14,1,0,1,9,70.2,36,Ambient,0,正大天晴,7
+SKU-0198,A10BH05,A,A10,A10B,A10BH,Linagliptin Injection 20mgx14,利格列汀Injection 20mgx14,Linagliptin,利格列汀,A10B,Diabetes,Injection,20mgx14,1,0,0,0,21.16,36,Ambient,0,科伦药业,21
+SKU-0199,A10BF01,A,A10,A10B,A10BF,Acarbose Oral Solution 25mgx28,阿卡波糖Oral Solution 25mgx28,Acarbose,阿卡波糖,A10B,Diabetes,Oral Solution,25mgx28,1,0,1,5,48.26,24,Ambient,0,阿斯利康,30
+SKU-0200,A10BX02,A,A10,A10B,A10BX,Repaglinide Capsules 500mgx21,瑞格列奈Capsules 500mgx21,Repaglinide,瑞格列奈,A10B,Diabetes,Capsules,500mgx21,1,0,0,0,31.07,24,Ambient,0,辉瑞制药,7
+SKU-0201,A10BA02,A,A10,A10B,A10BA,Metformin Capsules 25mgx90,二甲双胍Capsules 25mgx90,Metformin,二甲双胍,A10B,Diabetes,Capsules,25mgx90,1,0,1,2,71.25,12,Ambient,0,齐鲁制药,14
+SKU-0202,A10BB12,A,A10,A10B,A10BB,Glimepiride Oral Solution 250mgx28,格列美脲Oral Solution 250mgx28,Glimepiride,格列美脲,A10B,Diabetes,Oral Solution,250mgx28,1,0,0,0,58.2,36,Cold Chain,1,齐鲁制药,14
+SKU-0203,A10BH01,A,A10,A10B,A10BH,Sitagliptin Tablets 20mgx100,西格列汀Tablets 20mgx100,Sitagliptin,西格列汀,A10B,Diabetes,Tablets,20mgx100,1,0,1,2,20.01,48,Ambient,0,阿斯利康,30
+SKU-0204,A10BK03,A,A10,A10B,A10BK,Empagliflozin Capsules 5mgx28,恩格列净Capsules 5mgx28,Empagliflozin,恩格列净,A10B,Diabetes,Capsules,5mgx28,1,0,0,0,10.48,36,Ambient,0,阿斯利康,30
+SKU-0205,A10BB09,A,A10,A10B,A10BB,Gliclazide Oral Solution 250mgx7,格列齐特Oral Solution 250mgx7,Gliclazide,格列齐特,A10B,Diabetes,Oral Solution,250mgx7,1,1,0,0,39.79,12,Ambient,0,恒瑞医药,30
+SKU-0206,A10BH05,A,A10,A10B,A10BH,Linagliptin Injection 50mgx14,利格列汀Injection 50mgx14,Linagliptin,利格列汀,A10B,Diabetes,Injection,50mgx14,1,1,0,0,13.32,12,Ambient,0,齐鲁制药,14
+SKU-0207,A10BF01,A,A10,A10B,A10BF,Acarbose Granules 25mgx21,阿卡波糖Granules 25mgx21,Acarbose,阿卡波糖,A10B,Diabetes,Granules,25mgx21,1,0,0,0,14.58,36,Ambient,0,石药集团,14
+SKU-0208,A10BX02,A,A10,A10B,A10BX,Repaglinide Injection 10mgx90,瑞格列奈Injection 10mgx90,Repaglinide,瑞格列奈,A10B,Diabetes,Injection,10mgx90,1,1,0,0,30.13,24,Ambient,0,扬子江药业,14
+SKU-0209,A10BA02,A,A10,A10B,A10BA,Metformin Capsules 25mgx21,二甲双胍Capsules 25mgx21,Metformin,二甲双胍,A10B,Diabetes,Capsules,25mgx21,1,0,0,0,16.33,48,Ambient,0,扬子江药业,21
+SKU-0210,A10BB12,A,A10,A10B,A10BB,Glimepiride Granules 100mgx90,格列美脲Granules 100mgx90,Glimepiride,格列美脲,A10B,Diabetes,Granules,100mgx90,1,1,0,0,11.58,36,Ambient,0,科伦药业,21
+SKU-0211,A10BH01,A,A10,A10B,A10BH,Sitagliptin Tablets 250mgx14,西格列汀Tablets 250mgx14,Sitagliptin,西格列汀,A10B,Diabetes,Tablets,250mgx14,1,0,1,2,25.55,18,Ambient,0,齐鲁制药,30
+SKU-0212,A10BK03,A,A10,A10B,A10BK,Empagliflozin Granules 500mgx90,恩格列净Granules 500mgx90,Empagliflozin,恩格列净,A10B,Diabetes,Granules,500mgx90,1,0,1,1,57.44,48,Ambient,0,正大天晴,7
+SKU-0213,A10BB09,A,A10,A10B,A10BB,Gliclazide Capsules 500mgx14,格列齐特Capsules 500mgx14,Gliclazide,格列齐特,A10B,Diabetes,Capsules,500mgx14,1,0,1,9,35.22,24,Ambient,0,正大天晴,30
+SKU-0214,A10BH05,A,A10,A10B,A10BH,Linagliptin Oral Solution 10mgx21,利格列汀Oral Solution 10mgx21,Linagliptin,利格列汀,A10B,Diabetes,Oral Solution,10mgx21,1,1,0,0,66.04,48,Ambient,0,科伦药业,14
+SKU-0215,A10BF01,A,A10,A10B,A10BF,Acarbose Tablets 20mgx30,阿卡波糖Tablets 20mgx30,Acarbose,阿卡波糖,A10B,Diabetes,Tablets,20mgx30,1,0,0,0,71.31,12,Ambient,0,辉瑞制药,14
+SKU-0216,A10BX02,A,A10,A10B,A10BX,Repaglinide Capsules 5mgx30,瑞格列奈Capsules 5mgx30,Repaglinide,瑞格列奈,A10B,Diabetes,Capsules,5mgx30,1,0,1,2,71.52,36,Ambient,0,恒瑞医药,30
+SKU-0217,A10BA02,A,A10,A10B,A10BA,Metformin Injection 500mgx30,二甲双胍Injection 500mgx30,Metformin,二甲双胍,A10B,Diabetes,Injection,500mgx30,1,1,0,0,69.86,48,Ambient,0,诺华制药,14
+SKU-0218,A10BB12,A,A10,A10B,A10BB,Glimepiride Capsules 10mgx90,格列美脲Capsules 10mgx90,Glimepiride,格列美脲,A10B,Diabetes,Capsules,10mgx90,1,0,0,0,33.66,12,Ambient,0,阿斯利康,30
+SKU-0219,A10BH01,A,A10,A10B,A10BH,Sitagliptin Capsules 5mgx7,西格列汀Capsules 5mgx7,Sitagliptin,西格列汀,A10B,Diabetes,Capsules,5mgx7,1,1,1,4,57.16,36,Ambient,0,科伦药业,14
+SKU-0220,A10BK03,A,A10,A10B,A10BK,Empagliflozin Tablets 20mgx14,恩格列净Tablets 20mgx14,Empagliflozin,恩格列净,A10B,Diabetes,Tablets,20mgx14,1,1,0,0,12.79,36,Ambient,0,恒瑞医药,21
+SKU-0221,A10BB09,A,A10,A10B,A10BB,Gliclazide Granules 500mgx30,格列齐特Granules 500mgx30,Gliclazide,格列齐特,A10B,Diabetes,Granules,500mgx30,1,0,0,0,62.64,24,Ambient,0,赛诺菲,14
+SKU-0222,A10BH05,A,A10,A10B,A10BH,Linagliptin Injection 5mgx28,利格列汀Injection 5mgx28,Linagliptin,利格列汀,A10B,Diabetes,Injection,5mgx28,1,0,0,0,69.35,12,Ambient,0,辉瑞制药,14
+SKU-0223,A10BF01,A,A10,A10B,A10BF,Acarbose Granules 25mgx30,阿卡波糖Granules 25mgx30,Acarbose,阿卡波糖,A10B,Diabetes,Granules,25mgx30,1,0,1,9,47.4,12,Ambient,0,诺华制药,30
+SKU-0224,A10BX02,A,A10,A10B,A10BX,Repaglinide Capsules 500mgx21,瑞格列奈Capsules 500mgx21,Repaglinide,瑞格列奈,A10B,Diabetes,Capsules,500mgx21,1,0,1,5,19.65,48,Ambient,0,科伦药业,7
+SKU-0225,A10BA02,A,A10,A10B,A10BA,Metformin Injection 25mgx7,二甲双胍Injection 25mgx7,Metformin,二甲双胍,A10B,Diabetes,Injection,25mgx7,1,0,0,0,48.42,36,Ambient,0,正大天晴,14
+SKU-0226,A10BB12,A,A10,A10B,A10BB,Glimepiride Granules 500mgx90,格列美脲Granules 500mgx90,Glimepiride,格列美脲,A10B,Diabetes,Granules,500mgx90,1,0,1,9,40.76,36,Ambient,0,辉瑞制药,14
+SKU-0227,A10BH01,A,A10,A10B,A10BH,Sitagliptin Injection 50mgx100,西格列汀Injection 50mgx100,Sitagliptin,西格列汀,A10B,Diabetes,Injection,50mgx100,1,0,0,0,57.67,36,Ambient,0,赛诺菲,30
+SKU-0228,A10BK03,A,A10,A10B,A10BK,Empagliflozin Injection 50mgx100,恩格列净Injection 50mgx100,Empagliflozin,恩格列净,A10B,Diabetes,Injection,50mgx100,1,0,0,0,54.25,48,Ambient,0,恒瑞医药,14
+SKU-0229,A10BB09,A,A10,A10B,A10BB,Gliclazide Capsules 10mgx60,格列齐特Capsules 10mgx60,Gliclazide,格列齐特,A10B,Diabetes,Capsules,10mgx60,1,1,0,0,79.93,18,Ambient,0,齐鲁制药,14
+SKU-0230,A10BH05,A,A10,A10B,A10BH,Linagliptin Tablets 5mgx60,利格列汀Tablets 5mgx60,Linagliptin,利格列汀,A10B,Diabetes,Tablets,5mgx60,1,1,1,9,78.65,36,Ambient,0,诺华制药,30
+SKU-0231,A10BF01,A,A10,A10B,A10BF,Acarbose Injection 50mgx100,阿卡波糖Injection 50mgx100,Acarbose,阿卡波糖,A10B,Diabetes,Injection,50mgx100,1,1,1,5,64.47,12,Cold Chain,1,辉瑞制药,7
+SKU-0232,A10BX02,A,A10,A10B,A10BX,Repaglinide Capsules 10mgx30,瑞格列奈Capsules 10mgx30,Repaglinide,瑞格列奈,A10B,Diabetes,Capsules,10mgx30,1,1,0,0,79.02,48,Ambient,0,科伦药业,30
+SKU-0233,A10BA02,A,A10,A10B,A10BA,Metformin Injection 10mgx7,二甲双胍Injection 10mgx7,Metformin,二甲双胍,A10B,Diabetes,Injection,10mgx7,1,1,1,9,41.8,48,Cold Chain,1,赛诺菲,7
+SKU-0234,A10BB12,A,A10,A10B,A10BB,Glimepiride Granules 50mgx100,格列美脲Granules 50mgx100,Glimepiride,格列美脲,A10B,Diabetes,Granules,50mgx100,1,0,0,0,14.3,12,Ambient,0,恒瑞医药,30
+SKU-0235,A10BH01,A,A10,A10B,A10BH,Sitagliptin Oral Solution 20mgx14,西格列汀Oral Solution 20mgx14,Sitagliptin,西格列汀,A10B,Diabetes,Oral Solution,20mgx14,1,1,0,0,56.09,24,Ambient,0,诺华制药,21
+SKU-0236,A10BK03,A,A10,A10B,A10BK,Empagliflozin Injection 50mgx21,恩格列净Injection 50mgx21,Empagliflozin,恩格列净,A10B,Diabetes,Injection,50mgx21,1,0,0,0,71.29,18,Ambient,0,恒瑞医药,14
+SKU-0237,A10BB09,A,A10,A10B,A10BB,Gliclazide Oral Solution 100mgx28,格列齐特Oral Solution 100mgx28,Gliclazide,格列齐特,A10B,Diabetes,Oral Solution,100mgx28,1,1,1,9,70.32,18,Ambient,0,诺华制药,7
+SKU-0238,A10BH05,A,A10,A10B,A10BH,Linagliptin Capsules 250mgx14,利格列汀Capsules 250mgx14,Linagliptin,利格列汀,A10B,Diabetes,Capsules,250mgx14,1,0,1,1,11.81,12,Ambient,0,恒瑞医药,30
+SKU-0239,A10BF01,A,A10,A10B,A10BF,Acarbose Granules 500mgx30,阿卡波糖Granules 500mgx30,Acarbose,阿卡波糖,A10B,Diabetes,Granules,500mgx30,1,0,0,0,8.7,18,Ambient,0,诺华制药,30
+SKU-0240,A10BX02,A,A10,A10B,A10BX,Repaglinide Granules 50mgx30,瑞格列奈Granules 50mgx30,Repaglinide,瑞格列奈,A10B,Diabetes,Granules,50mgx30,1,0,1,1,28.23,48,Ambient,0,扬子江药业,7
+SKU-0241,A10BA02,A,A10,A10B,A10BA,Metformin Granules 25mgx21,二甲双胍Granules 25mgx21,Metformin,二甲双胍,A10B,Diabetes,Granules,25mgx21,1,1,0,0,37.33,12,Ambient,0,恒瑞医药,30
+SKU-0242,A10BB12,A,A10,A10B,A10BB,Glimepiride Oral Solution 500mgx60,格列美脲Oral Solution 500mgx60,Glimepiride,格列美脲,A10B,Diabetes,Oral Solution,500mgx60,1,0,0,0,37.18,24,Ambient,0,恒瑞医药,21
+SKU-0243,A10BH01,A,A10,A10B,A10BH,Sitagliptin Capsules 50mgx60,西格列汀Capsules 50mgx60,Sitagliptin,西格列汀,A10B,Diabetes,Capsules,50mgx60,1,1,0,0,75.39,36,Ambient,0,齐鲁制药,14
+SKU-0244,A10BK03,A,A10,A10B,A10BK,Empagliflozin Oral Solution 10mgx28,恩格列净Oral Solution 10mgx28,Empagliflozin,恩格列净,A10B,Diabetes,Oral Solution,10mgx28,1,0,1,1,64.37,12,Ambient,0,石药集团,7
+SKU-0245,A10BB09,A,A10,A10B,A10BB,Gliclazide Capsules 100mgx60,格列齐特Capsules 100mgx60,Gliclazide,格列齐特,A10B,Diabetes,Capsules,100mgx60,1,1,0,0,55.68,36,Ambient,0,石药集团,30
+SKU-0246,A10BH05,A,A10,A10B,A10BH,Linagliptin Tablets 5mgx60,利格列汀Tablets 5mgx60,Linagliptin,利格列汀,A10B,Diabetes,Tablets,5mgx60,1,0,1,9,76.86,24,Ambient,0,诺华制药,14
+SKU-0247,A10BF01,A,A10,A10B,A10BF,Acarbose Granules 100mgx100,阿卡波糖Granules 100mgx100,Acarbose,阿卡波糖,A10B,Diabetes,Granules,100mgx100,1,0,0,0,34.7,12,Ambient,0,科伦药业,14
+SKU-0248,A10BX02,A,A10,A10B,A10BX,Repaglinide Granules 100mgx90,瑞格列奈Granules 100mgx90,Repaglinide,瑞格列奈,A10B,Diabetes,Granules,100mgx90,1,0,1,3,35.33,24,Ambient,0,石药集团,14
+SKU-0249,A10BA02,A,A10,A10B,A10BA,Metformin Tablets 20mgx14,二甲双胍Tablets 20mgx14,Metformin,二甲双胍,A10B,Diabetes,Tablets,20mgx14,1,0,1,4,77.94,24,Ambient,0,齐鲁制药,30
+SKU-0250,A10BB12,A,A10,A10B,A10BB,Glimepiride Tablets 10mgx7,格列美脲Tablets 10mgx7,Glimepiride,格列美脲,A10B,Diabetes,Tablets,10mgx7,1,0,1,5,8.88,18,Ambient,0,诺华制药,7
+SKU-0251,A10BH01,A,A10,A10B,A10BH,Sitagliptin Granules 50mgx14,西格列汀Granules 50mgx14,Sitagliptin,西格列汀,A10B,Diabetes,Granules,50mgx14,1,0,1,5,51.24,12,Ambient,0,科伦药业,14
+SKU-0252,J05AH02,J,J05,J05A,J05AH,Oseltamivir Injection 25mgx14,奥司他韦Injection 25mgx14,Oseltamivir,奥司他韦,J05A,Respiratory,Injection,25mgx14,1,1,0,0,68.73,18,Ambient,0,辉瑞制药,30
+SKU-0253,R03DC03,R,R03,R03D,R03DC,Montelukast Granules 50mgx14,孟鲁司特Granules 50mgx14,Montelukast,孟鲁司特,R03D,Respiratory,Granules,50mgx14,1,1,0,0,36.84,36,Ambient,0,石药集团,7
+SKU-0254,R03AC02,R,R03,R03A,R03AC,Salbutamol Oral Solution 100mgx21,沙丁胺醇Oral Solution 100mgx21,Salbutamol,沙丁胺醇,R03A,Respiratory,Oral Solution,100mgx21,1,0,1,1,48.4,18,Ambient,0,石药集团,21
+SKU-0255,R05CB06,R,R05,R05C,R05CB,Ambroxol Tablets 10mgx21,氨溴索Tablets 10mgx21,Ambroxol,氨溴索,R05C,Respiratory,Tablets,10mgx21,1,0,0,0,50.1,18,Ambient,0,科伦药业,7
+SKU-0256,R03BA02,R,R03,R03B,R03BA,Budesonide Tablets 5mgx100,布地奈德Tablets 5mgx100,Budesonide,布地奈德,R03B,Respiratory,Tablets,5mgx100,1,0,0,0,36.75,24,Ambient,0,扬子江药业,21
+SKU-0257,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Granules 10mgx7,右美沙芬Granules 10mgx7,Dextromethorphan,右美沙芬,R05D,Respiratory,Granules,10mgx7,1,0,0,0,23.49,36,Ambient,0,石药集团,14
+SKU-0258,R05CB03,R,R05,R05C,R05CB,Carbocysteine Tablets 500mgx100,羧甲司坦Tablets 500mgx100,Carbocysteine,羧甲司坦,R05C,Respiratory,Tablets,500mgx100,1,0,0,0,54.83,24,Ambient,0,科伦药业,30
+SKU-0259,R03BB01,R,R03,R03B,R03BB,Ipratropium Oral Solution 50mgx14,异丙托溴铵Oral Solution 50mgx14,Ipratropium,异丙托溴铵,R03B,Respiratory,Oral Solution,50mgx14,1,0,0,0,10.45,48,Ambient,0,齐鲁制药,21
+SKU-0260,J05AH02,J,J05,J05A,J05AH,Oseltamivir Oral Solution 100mgx7,奥司他韦Oral Solution 100mgx7,Oseltamivir,奥司他韦,J05A,Respiratory,Oral Solution,100mgx7,1,0,0,0,28.34,48,Ambient,0,恒瑞医药,30
+SKU-0261,R03DC03,R,R03,R03D,R03DC,Montelukast Tablets 50mgx100,孟鲁司特Tablets 50mgx100,Montelukast,孟鲁司特,R03D,Respiratory,Tablets,50mgx100,1,0,0,0,5.94,18,Ambient,0,诺华制药,14
+SKU-0262,R03AC02,R,R03,R03A,R03AC,Salbutamol Capsules 10mgx30,沙丁胺醇Capsules 10mgx30,Salbutamol,沙丁胺醇,R03A,Respiratory,Capsules,10mgx30,1,0,0,0,5.37,12,Ambient,0,石药集团,14
+SKU-0263,R05CB06,R,R05,R05C,R05CB,Ambroxol Injection 500mgx100,氨溴索Injection 500mgx100,Ambroxol,氨溴索,R05C,Respiratory,Injection,500mgx100,1,0,0,0,11.18,12,Ambient,0,正大天晴,7
+SKU-0264,R03BA02,R,R03,R03B,R03BA,Budesonide Tablets 100mgx30,布地奈德Tablets 100mgx30,Budesonide,布地奈德,R03B,Respiratory,Tablets,100mgx30,1,1,1,7,62.17,36,Ambient,0,正大天晴,7
+SKU-0265,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Oral Solution 5mgx7,右美沙芬Oral Solution 5mgx7,Dextromethorphan,右美沙芬,R05D,Respiratory,Oral Solution,5mgx7,1,1,0,0,45.13,36,Ambient,0,齐鲁制药,7
+SKU-0266,R05CB03,R,R05,R05C,R05CB,Carbocysteine Injection 25mgx30,羧甲司坦Injection 25mgx30,Carbocysteine,羧甲司坦,R05C,Respiratory,Injection,25mgx30,1,1,1,2,10.14,18,Ambient,0,辉瑞制药,7
+SKU-0267,R03BB01,R,R03,R03B,R03BB,Ipratropium Tablets 5mgx90,异丙托溴铵Tablets 5mgx90,Ipratropium,异丙托溴铵,R03B,Respiratory,Tablets,5mgx90,1,0,0,0,55.37,24,Ambient,0,阿斯利康,14
+SKU-0268,J05AH02,J,J05,J05A,J05AH,Oseltamivir Granules 100mgx7,奥司他韦Granules 100mgx7,Oseltamivir,奥司他韦,J05A,Respiratory,Granules,100mgx7,1,0,0,0,71.59,48,Ambient,0,恒瑞医药,30
+SKU-0269,R03DC03,R,R03,R03D,R03DC,Montelukast Oral Solution 20mgx28,孟鲁司特Oral Solution 20mgx28,Montelukast,孟鲁司特,R03D,Respiratory,Oral Solution,20mgx28,1,0,0,0,75.82,24,Ambient,0,石药集团,30
+SKU-0270,R03AC02,R,R03,R03A,R03AC,Salbutamol Capsules 10mgx100,沙丁胺醇Capsules 10mgx100,Salbutamol,沙丁胺醇,R03A,Respiratory,Capsules,10mgx100,1,0,0,0,70.98,48,Ambient,0,恒瑞医药,7
+SKU-0271,R05CB06,R,R05,R05C,R05CB,Ambroxol Injection 50mgx14,氨溴索Injection 50mgx14,Ambroxol,氨溴索,R05C,Respiratory,Injection,50mgx14,1,0,0,0,25.44,18,Cold Chain,1,恒瑞医药,21
+SKU-0272,R03BA02,R,R03,R03B,R03BA,Budesonide Capsules 25mgx7,布地奈德Capsules 25mgx7,Budesonide,布地奈德,R03B,Respiratory,Capsules,25mgx7,1,0,1,1,64.49,12,Ambient,0,扬子江药业,21
+SKU-0273,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Tablets 5mgx28,右美沙芬Tablets 5mgx28,Dextromethorphan,右美沙芬,R05D,Respiratory,Tablets,5mgx28,1,1,0,0,73.71,24,Ambient,0,石药集团,21
+SKU-0274,R05CB03,R,R05,R05C,R05CB,Carbocysteine Capsules 5mgx100,羧甲司坦Capsules 5mgx100,Carbocysteine,羧甲司坦,R05C,Respiratory,Capsules,5mgx100,1,0,0,0,63.11,36,Ambient,0,赛诺菲,21
+SKU-0275,R03BB01,R,R03,R03B,R03BB,Ipratropium Granules 250mgx100,异丙托溴铵Granules 250mgx100,Ipratropium,异丙托溴铵,R03B,Respiratory,Granules,250mgx100,1,1,0,0,8.76,48,Ambient,0,赛诺菲,21
+SKU-0276,J05AH02,J,J05,J05A,J05AH,Oseltamivir Capsules 50mgx100,奥司他韦Capsules 50mgx100,Oseltamivir,奥司他韦,J05A,Respiratory,Capsules,50mgx100,1,0,0,0,48.06,18,Ambient,0,扬子江药业,7
+SKU-0277,R03DC03,R,R03,R03D,R03DC,Montelukast Granules 10mgx21,孟鲁司特Granules 10mgx21,Montelukast,孟鲁司特,R03D,Respiratory,Granules,10mgx21,1,0,0,0,14.0,12,Ambient,0,齐鲁制药,30
+SKU-0278,R03AC02,R,R03,R03A,R03AC,Salbutamol Granules 50mgx7,沙丁胺醇Granules 50mgx7,Salbutamol,沙丁胺醇,R03A,Respiratory,Granules,50mgx7,1,0,0,0,52.82,18,Ambient,0,赛诺菲,14
+SKU-0279,R05CB06,R,R05,R05C,R05CB,Ambroxol Injection 25mgx21,氨溴索Injection 25mgx21,Ambroxol,氨溴索,R05C,Respiratory,Injection,25mgx21,1,0,0,0,21.05,18,Ambient,0,辉瑞制药,30
+SKU-0280,R03BA02,R,R03,R03B,R03BA,Budesonide Oral Solution 50mgx30,布地奈德Oral Solution 50mgx30,Budesonide,布地奈德,R03B,Respiratory,Oral Solution,50mgx30,1,0,0,0,16.28,24,Ambient,0,石药集团,7
+SKU-0281,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Oral Solution 250mgx14,右美沙芬Oral Solution 250mgx14,Dextromethorphan,右美沙芬,R05D,Respiratory,Oral Solution,250mgx14,1,0,0,0,71.49,36,Ambient,0,扬子江药业,7
+SKU-0282,R05CB03,R,R05,R05C,R05CB,Carbocysteine Tablets 5mgx90,羧甲司坦Tablets 5mgx90,Carbocysteine,羧甲司坦,R05C,Respiratory,Tablets,5mgx90,1,0,0,0,5.46,36,Ambient,0,恒瑞医药,14
+SKU-0283,R03BB01,R,R03,R03B,R03BB,Ipratropium Granules 10mgx100,异丙托溴铵Granules 10mgx100,Ipratropium,异丙托溴铵,R03B,Respiratory,Granules,10mgx100,1,1,1,3,16.23,18,Ambient,0,诺华制药,30
+SKU-0284,J05AH02,J,J05,J05A,J05AH,Oseltamivir Injection 5mgx21,奥司他韦Injection 5mgx21,Oseltamivir,奥司他韦,J05A,Respiratory,Injection,5mgx21,1,0,0,0,61.75,24,Ambient,0,阿斯利康,7
+SKU-0285,R03DC03,R,R03,R03D,R03DC,Montelukast Capsules 250mgx90,孟鲁司特Capsules 250mgx90,Montelukast,孟鲁司特,R03D,Respiratory,Capsules,250mgx90,1,0,0,0,34.1,18,Ambient,0,赛诺菲,14
+SKU-0286,R03AC02,R,R03,R03A,R03AC,Salbutamol Granules 50mgx14,沙丁胺醇Granules 50mgx14,Salbutamol,沙丁胺醇,R03A,Respiratory,Granules,50mgx14,1,1,0,0,43.72,18,Ambient,0,石药集团,7
+SKU-0287,R05CB06,R,R05,R05C,R05CB,Ambroxol Granules 25mgx21,氨溴索Granules 25mgx21,Ambroxol,氨溴索,R05C,Respiratory,Granules,25mgx21,1,1,0,0,28.33,48,Ambient,0,阿斯利康,21
+SKU-0288,R03BA02,R,R03,R03B,R03BA,Budesonide Granules 10mgx100,布地奈德Granules 10mgx100,Budesonide,布地奈德,R03B,Respiratory,Granules,10mgx100,1,1,1,2,79.22,48,Ambient,0,齐鲁制药,7
+SKU-0289,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Oral Solution 20mgx21,右美沙芬Oral Solution 20mgx21,Dextromethorphan,右美沙芬,R05D,Respiratory,Oral Solution,20mgx21,1,0,0,0,25.44,36,Cold Chain,1,齐鲁制药,21
+SKU-0290,R05CB03,R,R05,R05C,R05CB,Carbocysteine Oral Solution 20mgx100,羧甲司坦Oral Solution 20mgx100,Carbocysteine,羧甲司坦,R05C,Respiratory,Oral Solution,20mgx100,1,0,1,5,34.72,48,Ambient,0,赛诺菲,14
+SKU-0291,R03BB01,R,R03,R03B,R03BB,Ipratropium Tablets 50mgx30,异丙托溴铵Tablets 50mgx30,Ipratropium,异丙托溴铵,R03B,Respiratory,Tablets,50mgx30,1,0,1,4,40.25,36,Ambient,0,正大天晴,21
+SKU-0292,J05AH02,J,J05,J05A,J05AH,Oseltamivir Granules 20mgx60,奥司他韦Granules 20mgx60,Oseltamivir,奥司他韦,J05A,Respiratory,Granules,20mgx60,1,0,1,4,63.4,48,Ambient,0,辉瑞制药,14
+SKU-0293,R03DC03,R,R03,R03D,R03DC,Montelukast Tablets 5mgx21,孟鲁司特Tablets 5mgx21,Montelukast,孟鲁司特,R03D,Respiratory,Tablets,5mgx21,1,0,0,0,42.1,48,Ambient,0,正大天晴,30
+SKU-0294,R03AC02,R,R03,R03A,R03AC,Salbutamol Injection 5mgx90,沙丁胺醇Injection 5mgx90,Salbutamol,沙丁胺醇,R03A,Respiratory,Injection,5mgx90,1,1,0,0,68.15,24,Ambient,0,恒瑞医药,30
+SKU-0295,R05CB06,R,R05,R05C,R05CB,Ambroxol Capsules 250mgx30,氨溴索Capsules 250mgx30,Ambroxol,氨溴索,R05C,Respiratory,Capsules,250mgx30,1,0,0,0,51.92,36,Ambient,0,辉瑞制药,14
+SKU-0296,R03BA02,R,R03,R03B,R03BA,Budesonide Tablets 20mgx7,布地奈德Tablets 20mgx7,Budesonide,布地奈德,R03B,Respiratory,Tablets,20mgx7,1,0,0,0,72.16,36,Cold Chain,1,诺华制药,7
+SKU-0297,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Oral Solution 5mgx28,右美沙芬Oral Solution 5mgx28,Dextromethorphan,右美沙芬,R05D,Respiratory,Oral Solution,5mgx28,1,1,0,0,16.68,36,Ambient,0,石药集团,21
+SKU-0298,R05CB03,R,R05,R05C,R05CB,Carbocysteine Oral Solution 100mgx7,羧甲司坦Oral Solution 100mgx7,Carbocysteine,羧甲司坦,R05C,Respiratory,Oral Solution,100mgx7,1,1,0,0,48.13,18,Ambient,0,赛诺菲,14
+SKU-0299,R03BB01,R,R03,R03B,R03BB,Ipratropium Tablets 50mgx7,异丙托溴铵Tablets 50mgx7,Ipratropium,异丙托溴铵,R03B,Respiratory,Tablets,50mgx7,1,0,0,0,35.3,48,Ambient,0,辉瑞制药,14
+SKU-0300,J05AH02,J,J05,J05A,J05AH,Oseltamivir Tablets 500mgx28,奥司他韦Tablets 500mgx28,Oseltamivir,奥司他韦,J05A,Respiratory,Tablets,500mgx28,1,1,1,5,8.58,36,Ambient,0,阿斯利康,21
+SKU-0301,R03DC03,R,R03,R03D,R03DC,Montelukast Granules 500mgx30,孟鲁司特Granules 500mgx30,Montelukast,孟鲁司特,R03D,Respiratory,Granules,500mgx30,1,0,0,0,38.44,48,Ambient,0,辉瑞制药,21
+SKU-0302,R03AC02,R,R03,R03A,R03AC,Salbutamol Capsules 50mgx28,沙丁胺醇Capsules 50mgx28,Salbutamol,沙丁胺醇,R03A,Respiratory,Capsules,50mgx28,1,1,1,9,61.49,48,Ambient,0,恒瑞医药,21
+SKU-0303,R05CB06,R,R05,R05C,R05CB,Ambroxol Granules 20mgx60,氨溴索Granules 20mgx60,Ambroxol,氨溴索,R05C,Respiratory,Granules,20mgx60,1,0,0,0,56.21,24,Ambient,0,石药集团,7
+SKU-0304,R03BA02,R,R03,R03B,R03BA,Budesonide Capsules 50mgx28,布地奈德Capsules 50mgx28,Budesonide,布地奈德,R03B,Respiratory,Capsules,50mgx28,1,1,0,0,26.31,24,Ambient,0,科伦药业,14
+SKU-0305,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Injection 20mgx21,右美沙芬Injection 20mgx21,Dextromethorphan,右美沙芬,R05D,Respiratory,Injection,20mgx21,1,1,1,5,29.62,18,Ambient,0,科伦药业,7
+SKU-0306,R05CB03,R,R05,R05C,R05CB,Carbocysteine Injection 50mgx28,羧甲司坦Injection 50mgx28,Carbocysteine,羧甲司坦,R05C,Respiratory,Injection,50mgx28,1,1,0,0,73.03,24,Ambient,0,恒瑞医药,30
+SKU-0307,R03BB01,R,R03,R03B,R03BB,Ipratropium Capsules 250mgx100,异丙托溴铵Capsules 250mgx100,Ipratropium,异丙托溴铵,R03B,Respiratory,Capsules,250mgx100,1,1,0,0,77.28,24,Ambient,0,阿斯利康,7
+SKU-0308,J05AH02,J,J05,J05A,J05AH,Oseltamivir Capsules 50mgx7,奥司他韦Capsules 50mgx7,Oseltamivir,奥司他韦,J05A,Respiratory,Capsules,50mgx7,1,1,0,0,32.53,36,Ambient,0,辉瑞制药,7
+SKU-0309,R03DC03,R,R03,R03D,R03DC,Montelukast Injection 5mgx30,孟鲁司特Injection 5mgx30,Montelukast,孟鲁司特,R03D,Respiratory,Injection,5mgx30,1,1,0,0,55.24,18,Ambient,0,扬子江药业,7
+SKU-0310,R03AC02,R,R03,R03A,R03AC,Salbutamol Injection 500mgx21,沙丁胺醇Injection 500mgx21,Salbutamol,沙丁胺醇,R03A,Respiratory,Injection,500mgx21,1,0,0,0,24.41,18,Ambient,0,齐鲁制药,14
+SKU-0311,R05CB06,R,R05,R05C,R05CB,Ambroxol Oral Solution 100mgx14,氨溴索Oral Solution 100mgx14,Ambroxol,氨溴索,R05C,Respiratory,Oral Solution,100mgx14,1,0,1,4,51.06,18,Ambient,0,石药集团,7
+SKU-0312,R03BA02,R,R03,R03B,R03BA,Budesonide Injection 20mgx14,布地奈德Injection 20mgx14,Budesonide,布地奈德,R03B,Respiratory,Injection,20mgx14,1,0,0,0,44.08,48,Ambient,0,石药集团,21
+SKU-0313,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Capsules 25mgx21,右美沙芬Capsules 25mgx21,Dextromethorphan,右美沙芬,R05D,Respiratory,Capsules,25mgx21,1,0,1,3,46.9,48,Ambient,0,恒瑞医药,30
+SKU-0314,R05CB03,R,R05,R05C,R05CB,Carbocysteine Injection 50mgx14,羧甲司坦Injection 50mgx14,Carbocysteine,羧甲司坦,R05C,Respiratory,Injection,50mgx14,1,1,1,1,9.16,36,Ambient,0,齐鲁制药,14
+SKU-0315,R03BB01,R,R03,R03B,R03BB,Ipratropium Tablets 25mgx28,异丙托溴铵Tablets 25mgx28,Ipratropium,异丙托溴铵,R03B,Respiratory,Tablets,25mgx28,1,0,0,0,79.93,18,Ambient,0,赛诺菲,21
+SKU-0316,J05AH02,J,J05,J05A,J05AH,Oseltamivir Injection 500mgx28,奥司他韦Injection 500mgx28,Oseltamivir,奥司他韦,J05A,Respiratory,Injection,500mgx28,1,0,0,0,54.25,18,Ambient,0,诺华制药,7
+SKU-0317,R03DC03,R,R03,R03D,R03DC,Montelukast Tablets 500mgx100,孟鲁司特Tablets 500mgx100,Montelukast,孟鲁司特,R03D,Respiratory,Tablets,500mgx100,1,0,1,1,76.76,18,Ambient,0,辉瑞制药,21
+SKU-0318,R03AC02,R,R03,R03A,R03AC,Salbutamol Tablets 100mgx21,沙丁胺醇Tablets 100mgx21,Salbutamol,沙丁胺醇,R03A,Respiratory,Tablets,100mgx21,1,0,0,0,21.31,48,Ambient,0,恒瑞医药,30
+SKU-0319,R05CB06,R,R05,R05C,R05CB,Ambroxol Granules 20mgx90,氨溴索Granules 20mgx90,Ambroxol,氨溴索,R05C,Respiratory,Granules,20mgx90,1,1,0,0,58.45,12,Ambient,0,辉瑞制药,21
+SKU-0320,R03BA02,R,R03,R03B,R03BA,Budesonide Injection 10mgx14,布地奈德Injection 10mgx14,Budesonide,布地奈德,R03B,Respiratory,Injection,10mgx14,1,0,0,0,42.62,36,Ambient,0,正大天晴,14
+SKU-0321,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Tablets 5mgx21,右美沙芬Tablets 5mgx21,Dextromethorphan,右美沙芬,R05D,Respiratory,Tablets,5mgx21,1,1,1,3,43.82,36,Ambient,0,阿斯利康,21
+SKU-0322,R05CB03,R,R05,R05C,R05CB,Carbocysteine Tablets 10mgx100,羧甲司坦Tablets 10mgx100,Carbocysteine,羧甲司坦,R05C,Respiratory,Tablets,10mgx100,1,0,0,0,69.79,18,Ambient,0,正大天晴,30
+SKU-0323,R03BB01,R,R03,R03B,R03BB,Ipratropium Capsules 10mgx7,异丙托溴铵Capsules 10mgx7,Ipratropium,异丙托溴铵,R03B,Respiratory,Capsules,10mgx7,1,0,0,0,42.49,24,Ambient,0,石药集团,7
+SKU-0324,J05AH02,J,J05,J05A,J05AH,Oseltamivir Injection 250mgx28,奥司他韦Injection 250mgx28,Oseltamivir,奥司他韦,J05A,Respiratory,Injection,250mgx28,1,0,1,9,35.03,24,Ambient,0,赛诺菲,21
+SKU-0325,R03DC03,R,R03,R03D,R03DC,Montelukast Injection 50mgx60,孟鲁司特Injection 50mgx60,Montelukast,孟鲁司特,R03D,Respiratory,Injection,50mgx60,1,0,1,7,17.74,36,Ambient,0,正大天晴,30
+SKU-0326,R03AC02,R,R03,R03A,R03AC,Salbutamol Granules 50mgx100,沙丁胺醇Granules 50mgx100,Salbutamol,沙丁胺醇,R03A,Respiratory,Granules,50mgx100,1,1,1,1,50.25,48,Ambient,0,辉瑞制药,14
+SKU-0327,R05CB06,R,R05,R05C,R05CB,Ambroxol Oral Solution 500mgx100,氨溴索Oral Solution 500mgx100,Ambroxol,氨溴索,R05C,Respiratory,Oral Solution,500mgx100,1,0,1,7,19.96,24,Ambient,0,齐鲁制药,7
+SKU-0328,R03BA02,R,R03,R03B,R03BA,Budesonide Tablets 5mgx30,布地奈德Tablets 5mgx30,Budesonide,布地奈德,R03B,Respiratory,Tablets,5mgx30,1,0,1,7,8.93,18,Ambient,0,诺华制药,7
+SKU-0329,R05DA09,R,R05,R05D,R05DA,Dextromethorphan Granules 25mgx28,右美沙芬Granules 25mgx28,Dextromethorphan,右美沙芬,R05D,Respiratory,Granules,25mgx28,1,1,0,0,73.15,24,Ambient,0,辉瑞制药,30
+SKU-0330,R05CB03,R,R05,R05C,R05CB,Carbocysteine Capsules 5mgx90,羧甲司坦Capsules 5mgx90,Carbocysteine,羧甲司坦,R05C,Respiratory,Capsules,5mgx90,1,1,0,0,64.23,18,Ambient,0,科伦药业,7
+SKU-0331,R03BB01,R,R03,R03B,R03BB,Ipratropium Injection 50mgx21,异丙托溴铵Injection 50mgx21,Ipratropium,异丙托溴铵,R03B,Respiratory,Injection,50mgx21,1,1,1,7,36.1,12,Ambient,0,正大天晴,21
+SKU-0332,J05AH02,J,J05,J05A,J05AH,Oseltamivir Injection 250mgx60,奥司他韦Injection 250mgx60,Oseltamivir,奥司他韦,J05A,Respiratory,Injection,250mgx60,1,0,1,1,46.17,36,Ambient,0,阿斯利康,21
+SKU-0333,R03DC03,R,R03,R03D,R03DC,Montelukast Tablets 250mgx90,孟鲁司特Tablets 250mgx90,Montelukast,孟鲁司特,R03D,Respiratory,Tablets,250mgx90,1,0,0,0,61.46,18,Ambient,0,辉瑞制药,7
+SKU-0334,R03AC02,R,R03,R03A,R03AC,Salbutamol Tablets 250mgx7,沙丁胺醇Tablets 250mgx7,Salbutamol,沙丁胺醇,R03A,Respiratory,Tablets,250mgx7,1,0,0,0,47.04,48,Ambient,0,科伦药业,21
+SKU-0335,N06DA02,N,N06,N06D,N06DA,Donepezil Granules 250mgx28,多奈哌齐Granules 250mgx28,Donepezil,多奈哌齐,N06D,CNS,Granules,250mgx28,1,1,1,5,66.56,18,Ambient,0,赛诺菲,14
+SKU-0336,N06AB10,N,N06,N06A,N06AB,Escitalopram Tablets 50mgx7,艾司西酞普兰Tablets 50mgx7,Escitalopram,艾司西酞普兰,N06A,CNS,Tablets,50mgx7,1,1,0,0,71.2,18,Ambient,0,赛诺菲,14
+SKU-0337,N03AX12,N,N03,N03A,N03AX,Gabapentin Granules 25mgx14,加巴喷丁Granules 25mgx14,Gabapentin,加巴喷丁,N03A,CNS,Granules,25mgx14,1,1,0,0,69.22,48,Ambient,0,诺华制药,14
+SKU-0338,N03AX16,N,N03,N03A,N03AX,Pregabalin Injection 50mgx21,普瑞巴林Injection 50mgx21,Pregabalin,普瑞巴林,N03A,CNS,Injection,50mgx21,1,1,1,5,65.73,18,Ambient,0,正大天晴,21
+SKU-0339,N05AX12,N,N05,N05A,N05AX,Aripiprazole Oral Solution 5mgx100,阿立哌唑Oral Solution 5mgx100,Aripiprazole,阿立哌唑,N05A,CNS,Oral Solution,5mgx100,1,0,0,0,52.62,24,Ambient,0,诺华制药,7
+SKU-0340,N06AB06,N,N06,N06A,N06AB,Sertraline Capsules 5mgx100,舍曲林Capsules 5mgx100,Sertraline,舍曲林,N06A,CNS,Capsules,5mgx100,1,0,0,0,44.16,36,Ambient,0,科伦药业,21
+SKU-0341,N06DX01,N,N06,N06D,N06DX,Memantine Injection 250mgx7,美金刚Injection 250mgx7,Memantine,美金刚,N06D,CNS,Injection,250mgx7,1,0,0,0,17.86,36,Ambient,0,齐鲁制药,30
+SKU-0342,N06AX21,N,N06,N06A,N06AX,Duloxetine Oral Solution 100mgx28,度洛西汀Oral Solution 100mgx28,Duloxetine,度洛西汀,N06A,CNS,Oral Solution,100mgx28,1,1,1,3,65.65,48,Ambient,0,辉瑞制药,21
+SKU-0343,N06DA02,N,N06,N06D,N06DA,Donepezil Granules 500mgx7,多奈哌齐Granules 500mgx7,Donepezil,多奈哌齐,N06D,CNS,Granules,500mgx7,1,0,1,7,8.39,18,Ambient,0,石药集团,30
+SKU-0344,N06AB10,N,N06,N06A,N06AB,Escitalopram Tablets 20mgx14,艾司西酞普兰Tablets 20mgx14,Escitalopram,艾司西酞普兰,N06A,CNS,Tablets,20mgx14,1,0,1,5,28.91,18,Ambient,0,科伦药业,14
+SKU-0345,N03AX12,N,N03,N03A,N03AX,Gabapentin Oral Solution 100mgx30,加巴喷丁Oral Solution 100mgx30,Gabapentin,加巴喷丁,N03A,CNS,Oral Solution,100mgx30,1,0,0,0,52.01,48,Ambient,0,石药集团,30
+SKU-0346,N03AX16,N,N03,N03A,N03AX,Pregabalin Granules 100mgx7,普瑞巴林Granules 100mgx7,Pregabalin,普瑞巴林,N03A,CNS,Granules,100mgx7,1,0,0,0,34.58,24,Ambient,0,正大天晴,7
+SKU-0347,N05AX12,N,N05,N05A,N05AX,Aripiprazole Granules 10mgx7,阿立哌唑Granules 10mgx7,Aripiprazole,阿立哌唑,N05A,CNS,Granules,10mgx7,1,0,0,0,60.7,48,Ambient,0,辉瑞制药,21
+SKU-0348,N06AB06,N,N06,N06A,N06AB,Sertraline Oral Solution 100mgx21,舍曲林Oral Solution 100mgx21,Sertraline,舍曲林,N06A,CNS,Oral Solution,100mgx21,1,0,1,2,11.41,12,Ambient,0,正大天晴,14
+SKU-0349,N06DX01,N,N06,N06D,N06DX,Memantine Oral Solution 500mgx28,美金刚Oral Solution 500mgx28,Memantine,美金刚,N06D,CNS,Oral Solution,500mgx28,1,0,0,0,78.64,18,Ambient,0,正大天晴,30
+SKU-0350,N06AX21,N,N06,N06A,N06AX,Duloxetine Oral Solution 25mgx60,度洛西汀Oral Solution 25mgx60,Duloxetine,度洛西汀,N06A,CNS,Oral Solution,25mgx60,1,0,0,0,37.43,12,Ambient,0,科伦药业,7
+SKU-0351,N06DA02,N,N06,N06D,N06DA,Donepezil Granules 5mgx30,多奈哌齐Granules 5mgx30,Donepezil,多奈哌齐,N06D,CNS,Granules,5mgx30,1,0,0,0,5.75,18,Ambient,0,扬子江药业,7
+SKU-0352,N06AB10,N,N06,N06A,N06AB,Escitalopram Granules 25mgx100,艾司西酞普兰Granules 25mgx100,Escitalopram,艾司西酞普兰,N06A,CNS,Granules,25mgx100,1,0,1,4,27.01,36,Ambient,0,齐鲁制药,7
+SKU-0353,N03AX12,N,N03,N03A,N03AX,Gabapentin Granules 250mgx60,加巴喷丁Granules 250mgx60,Gabapentin,加巴喷丁,N03A,CNS,Granules,250mgx60,1,0,1,9,56.36,18,Ambient,0,阿斯利康,14
+SKU-0354,N03AX16,N,N03,N03A,N03AX,Pregabalin Granules 100mgx30,普瑞巴林Granules 100mgx30,Pregabalin,普瑞巴林,N03A,CNS,Granules,100mgx30,1,1,0,0,31.47,36,Ambient,0,恒瑞医药,30
+SKU-0355,N05AX12,N,N05,N05A,N05AX,Aripiprazole Capsules 100mgx14,阿立哌唑Capsules 100mgx14,Aripiprazole,阿立哌唑,N05A,CNS,Capsules,100mgx14,1,1,0,0,75.87,18,Ambient,0,科伦药业,21
+SKU-0356,N06AB06,N,N06,N06A,N06AB,Sertraline Tablets 5mgx7,舍曲林Tablets 5mgx7,Sertraline,舍曲林,N06A,CNS,Tablets,5mgx7,1,0,0,0,67.65,36,Ambient,0,赛诺菲,14
+SKU-0357,N06DX01,N,N06,N06D,N06DX,Memantine Injection 500mgx30,美金刚Injection 500mgx30,Memantine,美金刚,N06D,CNS,Injection,500mgx30,1,0,1,2,22.08,24,Ambient,0,阿斯利康,30
+SKU-0358,N06AX21,N,N06,N06A,N06AX,Duloxetine Capsules 10mgx28,度洛西汀Capsules 10mgx28,Duloxetine,度洛西汀,N06A,CNS,Capsules,10mgx28,1,1,0,0,8.79,12,Ambient,0,诺华制药,21
+SKU-0359,N06DA02,N,N06,N06D,N06DA,Donepezil Oral Solution 5mgx30,多奈哌齐Oral Solution 5mgx30,Donepezil,多奈哌齐,N06D,CNS,Oral Solution,5mgx30,1,0,0,0,60.79,48,Ambient,0,正大天晴,21
+SKU-0360,N06AB10,N,N06,N06A,N06AB,Escitalopram Granules 25mgx14,艾司西酞普兰Granules 25mgx14,Escitalopram,艾司西酞普兰,N06A,CNS,Granules,25mgx14,1,1,1,5,46.62,12,Ambient,0,赛诺菲,21
+SKU-0361,N03AX12,N,N03,N03A,N03AX,Gabapentin Capsules 25mgx30,加巴喷丁Capsules 25mgx30,Gabapentin,加巴喷丁,N03A,CNS,Capsules,25mgx30,1,0,1,2,70.45,24,Ambient,0,科伦药业,30
+SKU-0362,N03AX16,N,N03,N03A,N03AX,Pregabalin Oral Solution 500mgx100,普瑞巴林Oral Solution 500mgx100,Pregabalin,普瑞巴林,N03A,CNS,Oral Solution,500mgx100,1,0,0,0,49.14,18,Ambient,0,正大天晴,21
+SKU-0363,N05AX12,N,N05,N05A,N05AX,Aripiprazole Tablets 20mgx30,阿立哌唑Tablets 20mgx30,Aripiprazole,阿立哌唑,N05A,CNS,Tablets,20mgx30,1,0,1,3,11.29,18,Ambient,0,科伦药业,7
+SKU-0364,N06AB06,N,N06,N06A,N06AB,Sertraline Tablets 10mgx90,舍曲林Tablets 10mgx90,Sertraline,舍曲林,N06A,CNS,Tablets,10mgx90,1,0,0,0,75.35,12,Ambient,0,科伦药业,7
+SKU-0365,N06DX01,N,N06,N06D,N06DX,Memantine Tablets 25mgx28,美金刚Tablets 25mgx28,Memantine,美金刚,N06D,CNS,Tablets,25mgx28,1,0,0,0,24.99,12,Ambient,0,齐鲁制药,30
+SKU-0366,N06AX21,N,N06,N06A,N06AX,Duloxetine Oral Solution 5mgx30,度洛西汀Oral Solution 5mgx30,Duloxetine,度洛西汀,N06A,CNS,Oral Solution,5mgx30,1,1,1,9,39.46,24,Ambient,0,恒瑞医药,7
+SKU-0367,N06DA02,N,N06,N06D,N06DA,Donepezil Oral Solution 50mgx14,多奈哌齐Oral Solution 50mgx14,Donepezil,多奈哌齐,N06D,CNS,Oral Solution,50mgx14,1,1,1,5,15.71,12,Ambient,0,科伦药业,30
+SKU-0368,N06AB10,N,N06,N06A,N06AB,Escitalopram Tablets 10mgx60,艾司西酞普兰Tablets 10mgx60,Escitalopram,艾司西酞普兰,N06A,CNS,Tablets,10mgx60,1,0,0,0,34.54,48,Ambient,0,正大天晴,30
+SKU-0369,N03AX12,N,N03,N03A,N03AX,Gabapentin Injection 10mgx30,加巴喷丁Injection 10mgx30,Gabapentin,加巴喷丁,N03A,CNS,Injection,10mgx30,1,0,0,0,63.84,24,Ambient,0,阿斯利康,30
+SKU-0370,N03AX16,N,N03,N03A,N03AX,Pregabalin Granules 20mgx30,普瑞巴林Granules 20mgx30,Pregabalin,普瑞巴林,N03A,CNS,Granules,20mgx30,1,1,0,0,60.04,12,Ambient,0,阿斯利康,7
+SKU-0371,N05AX12,N,N05,N05A,N05AX,Aripiprazole Tablets 250mgx28,阿立哌唑Tablets 250mgx28,Aripiprazole,阿立哌唑,N05A,CNS,Tablets,250mgx28,1,0,0,0,30.04,48,Ambient,0,恒瑞医药,14
+SKU-0372,N06AB06,N,N06,N06A,N06AB,Sertraline Granules 20mgx14,舍曲林Granules 20mgx14,Sertraline,舍曲林,N06A,CNS,Granules,20mgx14,1,1,0,0,63.57,24,Ambient,0,石药集团,14
+SKU-0373,N06DX01,N,N06,N06D,N06DX,Memantine Tablets 5mgx28,美金刚Tablets 5mgx28,Memantine,美金刚,N06D,CNS,Tablets,5mgx28,1,0,0,0,35.32,48,Ambient,0,诺华制药,30
+SKU-0374,N06AX21,N,N06,N06A,N06AX,Duloxetine Granules 10mgx14,度洛西汀Granules 10mgx14,Duloxetine,度洛西汀,N06A,CNS,Granules,10mgx14,1,1,0,0,56.55,18,Ambient,0,赛诺菲,7
+SKU-0375,N06DA02,N,N06,N06D,N06DA,Donepezil Tablets 500mgx21,多奈哌齐Tablets 500mgx21,Donepezil,多奈哌齐,N06D,CNS,Tablets,500mgx21,1,1,1,1,24.3,24,Ambient,0,科伦药业,21
+SKU-0376,N06AB10,N,N06,N06A,N06AB,Escitalopram Oral Solution 25mgx60,艾司西酞普兰Oral Solution 25mgx60,Escitalopram,艾司西酞普兰,N06A,CNS,Oral Solution,25mgx60,1,0,1,2,36.67,18,Ambient,0,恒瑞医药,21
+SKU-0377,N03AX12,N,N03,N03A,N03AX,Gabapentin Capsules 10mgx100,加巴喷丁Capsules 10mgx100,Gabapentin,加巴喷丁,N03A,CNS,Capsules,10mgx100,1,0,0,0,74.33,18,Ambient,0,赛诺菲,21
+SKU-0378,N03AX16,N,N03,N03A,N03AX,Pregabalin Tablets 25mgx14,普瑞巴林Tablets 25mgx14,Pregabalin,普瑞巴林,N03A,CNS,Tablets,25mgx14,1,0,0,0,21.23,48,Ambient,0,诺华制药,30
+SKU-0379,N05AX12,N,N05,N05A,N05AX,Aripiprazole Tablets 25mgx21,阿立哌唑Tablets 25mgx21,Aripiprazole,阿立哌唑,N05A,CNS,Tablets,25mgx21,1,0,0,0,22.01,36,Ambient,0,石药集团,21
+SKU-0380,N06AB06,N,N06,N06A,N06AB,Sertraline Injection 25mgx21,舍曲林Injection 25mgx21,Sertraline,舍曲林,N06A,CNS,Injection,25mgx21,1,0,0,0,28.6,36,Ambient,0,石药集团,21
+SKU-0381,N06DX01,N,N06,N06D,N06DX,Memantine Injection 10mgx7,美金刚Injection 10mgx7,Memantine,美金刚,N06D,CNS,Injection,10mgx7,1,1,1,4,75.81,24,Ambient,0,齐鲁制药,14
+SKU-0382,N06AX21,N,N06,N06A,N06AX,Duloxetine Oral Solution 20mgx28,度洛西汀Oral Solution 20mgx28,Duloxetine,度洛西汀,N06A,CNS,Oral Solution,20mgx28,1,1,0,0,8.91,12,Ambient,0,扬子江药业,21
+SKU-0383,N06DA02,N,N06,N06D,N06DA,Donepezil Capsules 20mgx60,多奈哌齐Capsules 20mgx60,Donepezil,多奈哌齐,N06D,CNS,Capsules,20mgx60,1,0,0,0,28.19,48,Ambient,0,诺华制药,30
+SKU-0384,N06AB10,N,N06,N06A,N06AB,Escitalopram Injection 50mgx28,艾司西酞普兰Injection 50mgx28,Escitalopram,艾司西酞普兰,N06A,CNS,Injection,50mgx28,1,0,0,0,7.52,24,Ambient,0,科伦药业,21
+SKU-0385,N03AX12,N,N03,N03A,N03AX,Gabapentin Injection 500mgx100,加巴喷丁Injection 500mgx100,Gabapentin,加巴喷丁,N03A,CNS,Injection,500mgx100,1,0,1,4,79.87,24,Ambient,0,石药集团,30
+SKU-0386,N03AX16,N,N03,N03A,N03AX,Pregabalin Oral Solution 20mgx30,普瑞巴林Oral Solution 20mgx30,Pregabalin,普瑞巴林,N03A,CNS,Oral Solution,20mgx30,1,0,0,0,40.67,24,Ambient,0,赛诺菲,14
+SKU-0387,N05AX12,N,N05,N05A,N05AX,Aripiprazole Oral Solution 500mgx28,阿立哌唑Oral Solution 500mgx28,Aripiprazole,阿立哌唑,N05A,CNS,Oral Solution,500mgx28,1,0,0,0,5.11,12,Ambient,0,扬子江药业,7
+SKU-0388,N06AB06,N,N06,N06A,N06AB,Sertraline Oral Solution 250mgx7,舍曲林Oral Solution 250mgx7,Sertraline,舍曲林,N06A,CNS,Oral Solution,250mgx7,1,0,1,5,6.17,18,Ambient,0,阿斯利康,30
+SKU-0389,N06DX01,N,N06,N06D,N06DX,Memantine Capsules 10mgx28,美金刚Capsules 10mgx28,Memantine,美金刚,N06D,CNS,Capsules,10mgx28,1,1,0,0,32.99,12,Ambient,0,诺华制药,30
+SKU-0390,N06AX21,N,N06,N06A,N06AX,Duloxetine Capsules 10mgx90,度洛西汀Capsules 10mgx90,Duloxetine,度洛西汀,N06A,CNS,Capsules,10mgx90,1,0,0,0,47.99,18,Ambient,0,正大天晴,21
+SKU-0391,N06DA02,N,N06,N06D,N06DA,Donepezil Tablets 100mgx60,多奈哌齐Tablets 100mgx60,Donepezil,多奈哌齐,N06D,CNS,Tablets,100mgx60,1,0,0,0,30.55,36,Ambient,0,恒瑞医药,14
+SKU-0392,N06AB10,N,N06,N06A,N06AB,Escitalopram Tablets 250mgx60,艾司西酞普兰Tablets 250mgx60,Escitalopram,艾司西酞普兰,N06A,CNS,Tablets,250mgx60,1,0,0,0,42.07,24,Ambient,0,赛诺菲,21
+SKU-0393,N03AX12,N,N03,N03A,N03AX,Gabapentin Capsules 10mgx21,加巴喷丁Capsules 10mgx21,Gabapentin,加巴喷丁,N03A,CNS,Capsules,10mgx21,1,0,1,9,12.67,48,Ambient,0,石药集团,7
+SKU-0394,N03AX16,N,N03,N03A,N03AX,Pregabalin Granules 50mgx60,普瑞巴林Granules 50mgx60,Pregabalin,普瑞巴林,N03A,CNS,Granules,50mgx60,1,1,1,7,23.77,18,Ambient,0,石药集团,30
+SKU-0395,N05AX12,N,N05,N05A,N05AX,Aripiprazole Capsules 5mgx90,阿立哌唑Capsules 5mgx90,Aripiprazole,阿立哌唑,N05A,CNS,Capsules,5mgx90,1,0,0,0,32.31,48,Ambient,0,扬子江药业,14
+SKU-0396,N06AB06,N,N06,N06A,N06AB,Sertraline Capsules 10mgx14,舍曲林Capsules 10mgx14,Sertraline,舍曲林,N06A,CNS,Capsules,10mgx14,1,1,0,0,29.61,18,Ambient,0,齐鲁制药,7
+SKU-0397,N06DX01,N,N06,N06D,N06DX,Memantine Oral Solution 100mgx90,美金刚Oral Solution 100mgx90,Memantine,美金刚,N06D,CNS,Oral Solution,100mgx90,1,0,1,2,41.63,36,Ambient,0,齐鲁制药,14
+SKU-0398,N06AX21,N,N06,N06A,N06AX,Duloxetine Injection 500mgx100,度洛西汀Injection 500mgx100,Duloxetine,度洛西汀,N06A,CNS,Injection,500mgx100,1,0,0,0,64.3,24,Cold Chain,1,石药集团,14
+SKU-0399,N06DA02,N,N06,N06D,N06DA,Donepezil Granules 5mgx30,多奈哌齐Granules 5mgx30,Donepezil,多奈哌齐,N06D,CNS,Granules,5mgx30,1,1,0,0,60.62,18,Ambient,0,正大天晴,30
+SKU-0400,N06AB10,N,N06,N06A,N06AB,Escitalopram Capsules 100mgx60,艾司西酞普兰Capsules 100mgx60,Escitalopram,艾司西酞普兰,N06A,CNS,Capsules,100mgx60,1,0,0,0,65.64,12,Cold Chain,1,石药集团,7
+SKU-0401,N03AX12,N,N03,N03A,N03AX,Gabapentin Capsules 20mgx60,加巴喷丁Capsules 20mgx60,Gabapentin,加巴喷丁,N03A,CNS,Capsules,20mgx60,1,0,0,0,25.48,18,Ambient,0,诺华制药,14
+SKU-0402,N03AX16,N,N03,N03A,N03AX,Pregabalin Injection 10mgx90,普瑞巴林Injection 10mgx90,Pregabalin,普瑞巴林,N03A,CNS,Injection,10mgx90,1,0,0,0,23.54,36,Ambient,0,恒瑞医药,30
+SKU-0403,N05AX12,N,N05,N05A,N05AX,Aripiprazole Tablets 25mgx60,阿立哌唑Tablets 25mgx60,Aripiprazole,阿立哌唑,N05A,CNS,Tablets,25mgx60,1,1,0,0,43.77,12,Ambient,0,辉瑞制药,7
+SKU-0404,N06AB06,N,N06,N06A,N06AB,Sertraline Tablets 25mgx21,舍曲林Tablets 25mgx21,Sertraline,舍曲林,N06A,CNS,Tablets,25mgx21,1,0,1,3,33.36,48,Ambient,0,科伦药业,7
+SKU-0405,N06DX01,N,N06,N06D,N06DX,Memantine Tablets 250mgx21,美金刚Tablets 250mgx21,Memantine,美金刚,N06D,CNS,Tablets,250mgx21,1,0,1,3,70.21,24,Ambient,0,阿斯利康,7
+SKU-0406,N06AX21,N,N06,N06A,N06AX,Duloxetine Oral Solution 50mgx30,度洛西汀Oral Solution 50mgx30,Duloxetine,度洛西汀,N06A,CNS,Oral Solution,50mgx30,1,0,0,0,6.07,24,Ambient,0,石药集团,14
+SKU-0407,N06DA02,N,N06,N06D,N06DA,Donepezil Capsules 5mgx21,多奈哌齐Capsules 5mgx21,Donepezil,多奈哌齐,N06D,CNS,Capsules,5mgx21,1,0,1,9,24.8,24,Ambient,0,诺华制药,30
+SKU-0408,N06AB10,N,N06,N06A,N06AB,Escitalopram Capsules 10mgx28,艾司西酞普兰Capsules 10mgx28,Escitalopram,艾司西酞普兰,N06A,CNS,Capsules,10mgx28,1,0,0,0,23.97,12,Ambient,0,赛诺菲,21
+SKU-0409,N03AX12,N,N03,N03A,N03AX,Gabapentin Oral Solution 5mgx28,加巴喷丁Oral Solution 5mgx28,Gabapentin,加巴喷丁,N03A,CNS,Oral Solution,5mgx28,1,1,0,0,66.02,48,Ambient,0,科伦药业,30
+SKU-0410,N03AX16,N,N03,N03A,N03AX,Pregabalin Oral Solution 20mgx60,普瑞巴林Oral Solution 20mgx60,Pregabalin,普瑞巴林,N03A,CNS,Oral Solution,20mgx60,1,1,0,0,48.52,24,Ambient,0,正大天晴,14
+SKU-0411,N05AX12,N,N05,N05A,N05AX,Aripiprazole Capsules 100mgx21,阿立哌唑Capsules 100mgx21,Aripiprazole,阿立哌唑,N05A,CNS,Capsules,100mgx21,1,0,1,5,23.48,18,Ambient,0,石药集团,30
+SKU-0412,N06AB06,N,N06,N06A,N06AB,Sertraline Tablets 250mgx14,舍曲林Tablets 250mgx14,Sertraline,舍曲林,N06A,CNS,Tablets,250mgx14,1,1,1,5,51.22,24,Ambient,0,正大天晴,21
+SKU-0413,N06DX01,N,N06,N06D,N06DX,Memantine Oral Solution 10mgx60,美金刚Oral Solution 10mgx60,Memantine,美金刚,N06D,CNS,Oral Solution,10mgx60,1,1,0,0,10.86,36,Ambient,0,辉瑞制药,21
+SKU-0414,N06AX21,N,N06,N06A,N06AX,Duloxetine Tablets 5mgx60,度洛西汀Tablets 5mgx60,Duloxetine,度洛西汀,N06A,CNS,Tablets,5mgx60,1,0,0,0,60.62,12,Ambient,0,科伦药业,30
+SKU-0415,N06DA02,N,N06,N06D,N06DA,Donepezil Injection 5mgx14,多奈哌齐Injection 5mgx14,Donepezil,多奈哌齐,N06D,CNS,Injection,5mgx14,1,1,0,0,54.01,48,Cold Chain,1,恒瑞医药,14
+SKU-0416,N06AB10,N,N06,N06A,N06AB,Escitalopram Tablets 10mgx14,艾司西酞普兰Tablets 10mgx14,Escitalopram,艾司西酞普兰,N06A,CNS,Tablets,10mgx14,1,0,0,0,8.01,18,Ambient,0,诺华制药,30
+SKU-0417,N03AX12,N,N03,N03A,N03AX,Gabapentin Tablets 250mgx90,加巴喷丁Tablets 250mgx90,Gabapentin,加巴喷丁,N03A,CNS,Tablets,250mgx90,1,0,1,9,12.71,36,Ambient,0,石药集团,21
+SKU-0418,A02BC01,A,A02,A02B,A02BC,Omeprazole Capsules 25mgx100,奥美拉唑Capsules 25mgx100,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Capsules,25mgx100,1,0,0,0,11.71,18,Ambient,0,辉瑞制药,21
+SKU-0419,A02BC05,A,A02,A02B,A02BC,Esomeprazole Capsules 50mgx90,埃索美拉唑Capsules 50mgx90,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Capsules,50mgx90,1,0,0,0,24.08,18,Ambient,0,正大天晴,21
+SKU-0420,A03FA09,A,A03,A03F,A03FA,Mosapride Oral Solution 50mgx30,莫沙必利Oral Solution 50mgx30,Mosapride,莫沙必利,A03F,Gastrointestinal,Oral Solution,50mgx30,1,0,0,0,49.4,18,Ambient,0,科伦药业,21
+SKU-0421,A06AD11,A,A06,A06A,A06AD,Lactulose Capsules 20mgx14,乳果糖Capsules 20mgx14,Lactulose,乳果糖,A06A,Gastrointestinal,Capsules,20mgx14,1,0,0,0,29.07,12,Ambient,0,恒瑞医药,7
+SKU-0422,A02BA02,A,A02,A02B,A02BA,Ranitidine Tablets 100mgx21,雷尼替丁Tablets 100mgx21,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Tablets,100mgx21,1,1,0,0,19.23,48,Ambient,0,石药集团,14
+SKU-0423,A09AA02,A,A09,A09A,A09AA,Compound Digestive Oral Solution 5mgx7,复方消化酶Oral Solution 5mgx7,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Oral Solution,5mgx7,1,1,0,0,47.16,12,Ambient,0,辉瑞制药,14
+SKU-0424,A07XA04,A,A07,A07X,A07XA,Racecadotril Granules 500mgx30,消旋卡多曲Granules 500mgx30,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Granules,500mgx30,1,0,1,9,27.49,12,Ambient,0,石药集团,14
+SKU-0425,A03AA05,A,A03,A03A,A03AA,Trimebutine Injection 5mgx21,曲美布汀Injection 5mgx21,Trimebutine,曲美布汀,A03A,Gastrointestinal,Injection,5mgx21,1,1,0,0,29.45,12,Ambient,0,扬子江药业,14
+SKU-0426,A02BC01,A,A02,A02B,A02BC,Omeprazole Tablets 25mgx30,奥美拉唑Tablets 25mgx30,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Tablets,25mgx30,1,0,1,7,18.36,12,Ambient,0,阿斯利康,21
+SKU-0427,A02BC05,A,A02,A02B,A02BC,Esomeprazole Oral Solution 10mgx60,埃索美拉唑Oral Solution 10mgx60,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Oral Solution,10mgx60,1,0,1,2,60.13,18,Ambient,0,诺华制药,21
+SKU-0428,A03FA09,A,A03,A03F,A03FA,Mosapride Tablets 50mgx28,莫沙必利Tablets 50mgx28,Mosapride,莫沙必利,A03F,Gastrointestinal,Tablets,50mgx28,1,0,0,0,8.32,18,Cold Chain,1,石药集团,30
+SKU-0429,A06AD11,A,A06,A06A,A06AD,Lactulose Capsules 25mgx100,乳果糖Capsules 25mgx100,Lactulose,乳果糖,A06A,Gastrointestinal,Capsules,25mgx100,1,0,1,7,39.41,48,Ambient,0,赛诺菲,14
+SKU-0430,A02BA02,A,A02,A02B,A02BA,Ranitidine Injection 100mgx100,雷尼替丁Injection 100mgx100,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Injection,100mgx100,1,0,0,0,71.51,18,Ambient,0,恒瑞医药,14
+SKU-0431,A09AA02,A,A09,A09A,A09AA,Compound Digestive Granules 500mgx7,复方消化酶Granules 500mgx7,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Granules,500mgx7,1,1,0,0,70.47,12,Ambient,0,齐鲁制药,21
+SKU-0432,A07XA04,A,A07,A07X,A07XA,Racecadotril Injection 5mgx90,消旋卡多曲Injection 5mgx90,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Injection,5mgx90,1,0,0,0,11.94,12,Ambient,0,阿斯利康,21
+SKU-0433,A03AA05,A,A03,A03A,A03AA,Trimebutine Injection 500mgx90,曲美布汀Injection 500mgx90,Trimebutine,曲美布汀,A03A,Gastrointestinal,Injection,500mgx90,1,1,0,0,7.28,24,Ambient,0,正大天晴,7
+SKU-0434,A02BC01,A,A02,A02B,A02BC,Omeprazole Injection 250mgx28,奥美拉唑Injection 250mgx28,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Injection,250mgx28,1,0,0,0,28.64,18,Ambient,0,齐鲁制药,21
+SKU-0435,A02BC05,A,A02,A02B,A02BC,Esomeprazole Capsules 250mgx7,埃索美拉唑Capsules 250mgx7,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Capsules,250mgx7,1,0,0,0,41.7,24,Ambient,0,诺华制药,7
+SKU-0436,A03FA09,A,A03,A03F,A03FA,Mosapride Capsules 5mgx28,莫沙必利Capsules 5mgx28,Mosapride,莫沙必利,A03F,Gastrointestinal,Capsules,5mgx28,1,0,1,9,31.65,24,Ambient,0,诺华制药,14
+SKU-0437,A06AD11,A,A06,A06A,A06AD,Lactulose Granules 20mgx60,乳果糖Granules 20mgx60,Lactulose,乳果糖,A06A,Gastrointestinal,Granules,20mgx60,1,1,1,1,16.74,48,Ambient,0,扬子江药业,21
+SKU-0438,A02BA02,A,A02,A02B,A02BA,Ranitidine Tablets 10mgx7,雷尼替丁Tablets 10mgx7,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Tablets,10mgx7,1,0,0,0,57.86,48,Ambient,0,正大天晴,14
+SKU-0439,A09AA02,A,A09,A09A,A09AA,Compound Digestive Oral Solution 10mgx21,复方消化酶Oral Solution 10mgx21,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Oral Solution,10mgx21,1,1,1,9,39.96,36,Ambient,0,石药集团,30
+SKU-0440,A07XA04,A,A07,A07X,A07XA,Racecadotril Capsules 10mgx21,消旋卡多曲Capsules 10mgx21,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Capsules,10mgx21,1,1,0,0,41.0,24,Ambient,0,扬子江药业,14
+SKU-0441,A03AA05,A,A03,A03A,A03AA,Trimebutine Granules 250mgx100,曲美布汀Granules 250mgx100,Trimebutine,曲美布汀,A03A,Gastrointestinal,Granules,250mgx100,1,1,0,0,45.56,24,Ambient,0,齐鲁制药,7
+SKU-0442,A02BC01,A,A02,A02B,A02BC,Omeprazole Oral Solution 100mgx30,奥美拉唑Oral Solution 100mgx30,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Oral Solution,100mgx30,1,0,0,0,66.6,36,Ambient,0,齐鲁制药,21
+SKU-0443,A02BC05,A,A02,A02B,A02BC,Esomeprazole Tablets 20mgx90,埃索美拉唑Tablets 20mgx90,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Tablets,20mgx90,1,0,0,0,15.46,18,Ambient,0,扬子江药业,7
+SKU-0444,A03FA09,A,A03,A03F,A03FA,Mosapride Capsules 100mgx90,莫沙必利Capsules 100mgx90,Mosapride,莫沙必利,A03F,Gastrointestinal,Capsules,100mgx90,1,0,1,2,18.7,18,Cold Chain,1,辉瑞制药,7
+SKU-0445,A06AD11,A,A06,A06A,A06AD,Lactulose Oral Solution 250mgx30,乳果糖Oral Solution 250mgx30,Lactulose,乳果糖,A06A,Gastrointestinal,Oral Solution,250mgx30,1,0,0,0,71.96,18,Ambient,0,齐鲁制药,7
+SKU-0446,A02BA02,A,A02,A02B,A02BA,Ranitidine Injection 250mgx21,雷尼替丁Injection 250mgx21,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Injection,250mgx21,1,1,0,0,75.09,18,Ambient,0,扬子江药业,7
+SKU-0447,A09AA02,A,A09,A09A,A09AA,Compound Digestive Oral Solution 100mgx7,复方消化酶Oral Solution 100mgx7,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Oral Solution,100mgx7,1,0,1,1,32.87,18,Ambient,0,阿斯利康,7
+SKU-0448,A07XA04,A,A07,A07X,A07XA,Racecadotril Capsules 100mgx100,消旋卡多曲Capsules 100mgx100,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Capsules,100mgx100,1,0,1,2,72.38,24,Ambient,0,诺华制药,30
+SKU-0449,A03AA05,A,A03,A03A,A03AA,Trimebutine Granules 10mgx90,曲美布汀Granules 10mgx90,Trimebutine,曲美布汀,A03A,Gastrointestinal,Granules,10mgx90,1,0,0,0,9.17,24,Ambient,0,恒瑞医药,21
+SKU-0450,A02BC01,A,A02,A02B,A02BC,Omeprazole Injection 500mgx100,奥美拉唑Injection 500mgx100,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Injection,500mgx100,1,0,1,7,75.83,24,Ambient,0,诺华制药,7
+SKU-0451,A02BC05,A,A02,A02B,A02BC,Esomeprazole Capsules 500mgx30,埃索美拉唑Capsules 500mgx30,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Capsules,500mgx30,1,0,0,0,63.87,48,Ambient,0,正大天晴,30
+SKU-0452,A03FA09,A,A03,A03F,A03FA,Mosapride Granules 5mgx90,莫沙必利Granules 5mgx90,Mosapride,莫沙必利,A03F,Gastrointestinal,Granules,5mgx90,1,1,1,9,74.03,24,Ambient,0,石药集团,30
+SKU-0453,A06AD11,A,A06,A06A,A06AD,Lactulose Injection 50mgx28,乳果糖Injection 50mgx28,Lactulose,乳果糖,A06A,Gastrointestinal,Injection,50mgx28,1,0,0,0,53.44,12,Ambient,0,阿斯利康,7
+SKU-0454,A02BA02,A,A02,A02B,A02BA,Ranitidine Injection 100mgx100,雷尼替丁Injection 100mgx100,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Injection,100mgx100,1,1,0,0,13.25,48,Ambient,0,恒瑞医药,14
+SKU-0455,A09AA02,A,A09,A09A,A09AA,Compound Digestive Oral Solution 5mgx60,复方消化酶Oral Solution 5mgx60,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Oral Solution,5mgx60,1,0,0,0,41.97,48,Ambient,0,诺华制药,30
+SKU-0456,A07XA04,A,A07,A07X,A07XA,Racecadotril Tablets 20mgx60,消旋卡多曲Tablets 20mgx60,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Tablets,20mgx60,1,1,0,0,31.52,24,Ambient,0,阿斯利康,21
+SKU-0457,A03AA05,A,A03,A03A,A03AA,Trimebutine Oral Solution 50mgx60,曲美布汀Oral Solution 50mgx60,Trimebutine,曲美布汀,A03A,Gastrointestinal,Oral Solution,50mgx60,1,0,0,0,78.91,24,Ambient,0,辉瑞制药,21
+SKU-0458,A02BC01,A,A02,A02B,A02BC,Omeprazole Injection 50mgx7,奥美拉唑Injection 50mgx7,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Injection,50mgx7,1,0,0,0,60.52,18,Ambient,0,正大天晴,21
+SKU-0459,A02BC05,A,A02,A02B,A02BC,Esomeprazole Tablets 50mgx21,埃索美拉唑Tablets 50mgx21,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Tablets,50mgx21,1,0,1,5,55.3,36,Ambient,0,石药集团,14
+SKU-0460,A03FA09,A,A03,A03F,A03FA,Mosapride Capsules 5mgx14,莫沙必利Capsules 5mgx14,Mosapride,莫沙必利,A03F,Gastrointestinal,Capsules,5mgx14,1,1,0,0,8.62,48,Cold Chain,1,正大天晴,14
+SKU-0461,A06AD11,A,A06,A06A,A06AD,Lactulose Capsules 100mgx100,乳果糖Capsules 100mgx100,Lactulose,乳果糖,A06A,Gastrointestinal,Capsules,100mgx100,1,0,0,0,10.39,48,Ambient,0,正大天晴,30
+SKU-0462,A02BA02,A,A02,A02B,A02BA,Ranitidine Tablets 50mgx90,雷尼替丁Tablets 50mgx90,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Tablets,50mgx90,1,1,1,3,44.31,12,Ambient,0,齐鲁制药,21
+SKU-0463,A09AA02,A,A09,A09A,A09AA,Compound Digestive Capsules 10mgx28,复方消化酶Capsules 10mgx28,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Capsules,10mgx28,1,1,1,4,21.56,48,Cold Chain,1,赛诺菲,21
+SKU-0464,A07XA04,A,A07,A07X,A07XA,Racecadotril Injection 20mgx30,消旋卡多曲Injection 20mgx30,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Injection,20mgx30,1,0,0,0,66.98,36,Ambient,0,恒瑞医药,21
+SKU-0465,A03AA05,A,A03,A03A,A03AA,Trimebutine Oral Solution 5mgx30,曲美布汀Oral Solution 5mgx30,Trimebutine,曲美布汀,A03A,Gastrointestinal,Oral Solution,5mgx30,1,0,0,0,30.11,18,Ambient,0,诺华制药,14
+SKU-0466,A02BC01,A,A02,A02B,A02BC,Omeprazole Tablets 10mgx30,奥美拉唑Tablets 10mgx30,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Tablets,10mgx30,1,0,1,1,68.81,18,Ambient,0,石药集团,30
+SKU-0467,A02BC05,A,A02,A02B,A02BC,Esomeprazole Capsules 100mgx100,埃索美拉唑Capsules 100mgx100,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Capsules,100mgx100,1,0,0,0,31.08,12,Ambient,0,扬子江药业,30
+SKU-0468,A03FA09,A,A03,A03F,A03FA,Mosapride Tablets 25mgx100,莫沙必利Tablets 25mgx100,Mosapride,莫沙必利,A03F,Gastrointestinal,Tablets,25mgx100,1,0,1,2,15.55,48,Cold Chain,1,石药集团,7
+SKU-0469,A06AD11,A,A06,A06A,A06AD,Lactulose Capsules 50mgx60,乳果糖Capsules 50mgx60,Lactulose,乳果糖,A06A,Gastrointestinal,Capsules,50mgx60,1,0,0,0,68.57,18,Ambient,0,齐鲁制药,30
+SKU-0470,A02BA02,A,A02,A02B,A02BA,Ranitidine Granules 500mgx60,雷尼替丁Granules 500mgx60,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Granules,500mgx60,1,1,0,0,27.67,12,Ambient,0,辉瑞制药,30
+SKU-0471,A09AA02,A,A09,A09A,A09AA,Compound Digestive Capsules 500mgx100,复方消化酶Capsules 500mgx100,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Capsules,500mgx100,1,0,0,0,68.1,36,Ambient,0,赛诺菲,14
+SKU-0472,A07XA04,A,A07,A07X,A07XA,Racecadotril Injection 50mgx21,消旋卡多曲Injection 50mgx21,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Injection,50mgx21,1,0,1,1,55.95,24,Ambient,0,阿斯利康,21
+SKU-0473,A03AA05,A,A03,A03A,A03AA,Trimebutine Oral Solution 250mgx100,曲美布汀Oral Solution 250mgx100,Trimebutine,曲美布汀,A03A,Gastrointestinal,Oral Solution,250mgx100,1,0,0,0,28.64,48,Ambient,0,齐鲁制药,30
+SKU-0474,A02BC01,A,A02,A02B,A02BC,Omeprazole Capsules 10mgx21,奥美拉唑Capsules 10mgx21,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Capsules,10mgx21,1,0,0,0,76.28,18,Ambient,0,恒瑞医药,14
+SKU-0475,A02BC05,A,A02,A02B,A02BC,Esomeprazole Granules 100mgx100,埃索美拉唑Granules 100mgx100,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Granules,100mgx100,1,1,1,4,56.34,36,Ambient,0,科伦药业,7
+SKU-0476,A03FA09,A,A03,A03F,A03FA,Mosapride Granules 25mgx60,莫沙必利Granules 25mgx60,Mosapride,莫沙必利,A03F,Gastrointestinal,Granules,25mgx60,1,0,0,0,34.26,36,Ambient,0,赛诺菲,14
+SKU-0477,A06AD11,A,A06,A06A,A06AD,Lactulose Capsules 25mgx7,乳果糖Capsules 25mgx7,Lactulose,乳果糖,A06A,Gastrointestinal,Capsules,25mgx7,1,1,0,0,8.15,24,Ambient,0,扬子江药业,21
+SKU-0478,A02BA02,A,A02,A02B,A02BA,Ranitidine Granules 10mgx90,雷尼替丁Granules 10mgx90,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Granules,10mgx90,1,0,0,0,16.84,36,Ambient,0,诺华制药,14
+SKU-0479,A09AA02,A,A09,A09A,A09AA,Compound Digestive Capsules 500mgx100,复方消化酶Capsules 500mgx100,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Capsules,500mgx100,1,0,0,0,47.97,12,Ambient,0,石药集团,7
+SKU-0480,A07XA04,A,A07,A07X,A07XA,Racecadotril Granules 20mgx60,消旋卡多曲Granules 20mgx60,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Granules,20mgx60,1,0,0,0,8.94,48,Ambient,0,科伦药业,30
+SKU-0481,A03AA05,A,A03,A03A,A03AA,Trimebutine Oral Solution 50mgx90,曲美布汀Oral Solution 50mgx90,Trimebutine,曲美布汀,A03A,Gastrointestinal,Oral Solution,50mgx90,1,0,0,0,12.18,12,Ambient,0,恒瑞医药,7
+SKU-0482,A02BC01,A,A02,A02B,A02BC,Omeprazole Oral Solution 50mgx14,奥美拉唑Oral Solution 50mgx14,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Oral Solution,50mgx14,1,0,0,0,17.04,48,Ambient,0,扬子江药业,14
+SKU-0483,A02BC05,A,A02,A02B,A02BC,Esomeprazole Capsules 50mgx14,埃索美拉唑Capsules 50mgx14,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Capsules,50mgx14,1,1,0,0,23.58,48,Ambient,0,齐鲁制药,30
+SKU-0484,A03FA09,A,A03,A03F,A03FA,Mosapride Injection 25mgx21,莫沙必利Injection 25mgx21,Mosapride,莫沙必利,A03F,Gastrointestinal,Injection,25mgx21,1,0,0,0,62.89,18,Ambient,0,正大天晴,7
+SKU-0485,A06AD11,A,A06,A06A,A06AD,Lactulose Granules 50mgx21,乳果糖Granules 50mgx21,Lactulose,乳果糖,A06A,Gastrointestinal,Granules,50mgx21,1,1,0,0,39.4,48,Ambient,0,阿斯利康,14
+SKU-0486,A02BA02,A,A02,A02B,A02BA,Ranitidine Tablets 5mgx60,雷尼替丁Tablets 5mgx60,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Tablets,5mgx60,1,1,1,3,24.89,24,Ambient,0,赛诺菲,7
+SKU-0487,A09AA02,A,A09,A09A,A09AA,Compound Digestive Capsules 100mgx30,复方消化酶Capsules 100mgx30,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Capsules,100mgx30,1,0,0,0,44.27,12,Ambient,0,正大天晴,21
+SKU-0488,A07XA04,A,A07,A07X,A07XA,Racecadotril Capsules 5mgx90,消旋卡多曲Capsules 5mgx90,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Capsules,5mgx90,1,0,0,0,59.79,24,Ambient,0,辉瑞制药,30
+SKU-0489,A03AA05,A,A03,A03A,A03AA,Trimebutine Injection 50mgx60,曲美布汀Injection 50mgx60,Trimebutine,曲美布汀,A03A,Gastrointestinal,Injection,50mgx60,1,1,1,2,12.35,18,Ambient,0,扬子江药业,21
+SKU-0490,A02BC01,A,A02,A02B,A02BC,Omeprazole Tablets 50mgx60,奥美拉唑Tablets 50mgx60,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Tablets,50mgx60,1,1,1,1,34.51,18,Ambient,0,石药集团,14
+SKU-0491,A02BC05,A,A02,A02B,A02BC,Esomeprazole Granules 100mgx60,埃索美拉唑Granules 100mgx60,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Granules,100mgx60,1,0,0,0,74.8,18,Ambient,0,诺华制药,30
+SKU-0492,A03FA09,A,A03,A03F,A03FA,Mosapride Oral Solution 50mgx30,莫沙必利Oral Solution 50mgx30,Mosapride,莫沙必利,A03F,Gastrointestinal,Oral Solution,50mgx30,1,1,0,0,21.16,24,Ambient,0,正大天晴,7
+SKU-0493,A06AD11,A,A06,A06A,A06AD,Lactulose Tablets 50mgx60,乳果糖Tablets 50mgx60,Lactulose,乳果糖,A06A,Gastrointestinal,Tablets,50mgx60,1,1,1,4,69.68,48,Ambient,0,恒瑞医药,30
+SKU-0494,A02BA02,A,A02,A02B,A02BA,Ranitidine Oral Solution 500mgx7,雷尼替丁Oral Solution 500mgx7,Ranitidine,雷尼替丁,A02B,Gastrointestinal,Oral Solution,500mgx7,1,0,1,9,23.78,12,Ambient,0,扬子江药业,14
+SKU-0495,A09AA02,A,A09,A09A,A09AA,Compound Digestive Tablets 25mgx28,复方消化酶Tablets 25mgx28,Compound Digestive,复方消化酶,A09A,Gastrointestinal,Tablets,25mgx28,1,1,0,0,75.61,18,Ambient,0,齐鲁制药,21
+SKU-0496,A07XA04,A,A07,A07X,A07XA,Racecadotril Granules 25mgx7,消旋卡多曲Granules 25mgx7,Racecadotril,消旋卡多曲,A07X,Gastrointestinal,Granules,25mgx7,1,1,0,0,19.11,18,Ambient,0,阿斯利康,30
+SKU-0497,A03AA05,A,A03,A03A,A03AA,Trimebutine Capsules 20mgx90,曲美布汀Capsules 20mgx90,Trimebutine,曲美布汀,A03A,Gastrointestinal,Capsules,20mgx90,1,1,0,0,26.89,48,Ambient,0,赛诺菲,21
+SKU-0498,A02BC01,A,A02,A02B,A02BC,Omeprazole Oral Solution 250mgx7,奥美拉唑Oral Solution 250mgx7,Omeprazole,奥美拉唑,A02B,Gastrointestinal,Oral Solution,250mgx7,1,0,0,0,55.23,12,Ambient,0,扬子江药业,21
+SKU-0499,A02BC05,A,A02,A02B,A02BC,Esomeprazole Injection 100mgx14,埃索美拉唑Injection 100mgx14,Esomeprazole,埃索美拉唑,A02B,Gastrointestinal,Injection,100mgx14,1,0,1,5,37.45,12,Ambient,0,科伦药业,21
+SKU-0500,A03FA09,A,A03,A03F,A03FA,Mosapride Granules 25mgx28,莫沙必利Granules 25mgx28,Mosapride,莫沙必利,A03F,Gastrointestinal,Granules,25mgx28,1,0,0,0,21.68,36,Cold Chain,1,辉瑞制药,14
