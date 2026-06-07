@@ -207,16 +207,27 @@ def load_all_data():
         else:
             data[key] = pd.DataFrame()
 
-    # 需求数据: 从2025年6月开始加载（12个月历史）
-    if os.path.exists('data/demand_daily.csv'):
-        df = pd.read_csv('data/demand_daily.csv', parse_dates=['date'])
-        data['demand'] = df[df['date'] >= '2025-06-01'].copy()  # 12个月历史
+    # 需求数据: 优先使用pickle（更快更省内存），否则回退CSV
+    if os.path.exists('data/demand_daily.pkl'):
+        df = pd.read_pickle('data/demand_daily.pkl')
+        data['demand'] = df[df['date'] >= '2025-06-01'].copy()
+    elif os.path.exists('data/demand_daily.csv'):
+        df = pd.read_csv('data/demand_daily.csv', parse_dates=['date'],
+                          dtype={'sku_id': 'category', 'demand_total': 'int32',
+                                 'demand_hospital': 'int32', 'demand_chain': 'int32',
+                                 'demand_independent': 'int32'})
+        data['demand'] = df[df['date'] >= '2025-06-01'].copy()
     else:
         data['demand'] = pd.DataFrame()
 
     # 最新库存快照
-    if os.path.exists('data/inventory.csv'):
-        inv = pd.read_csv('data/inventory.csv', parse_dates=['date'])
+    if os.path.exists('data/inventory.pkl'):
+        inv = pd.read_pickle('data/inventory.pkl')
+        data['inventory_latest'] = inv.sort_values('date').groupby('sku_id').last().reset_index()
+    elif os.path.exists('data/inventory.csv'):
+        inv = pd.read_csv('data/inventory.csv', parse_dates=['date'],
+                          dtype={'sku_id': 'category', 'ending_inventory': 'int32',
+                                 'receipt_qty': 'int32', 'stockout_flag': 'int8'})
         data['inventory_latest'] = inv.sort_values('date').groupby('sku_id').last().reset_index()
     else:
         data['inventory_latest'] = pd.DataFrame()
